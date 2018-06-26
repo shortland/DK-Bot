@@ -1,0 +1,6 @@
+make hangman visible
+match-history of sc2 players
+congratulate people on league promotions
+	```SQL
+	SELECT * FROM `everyone` WHERE (1491406724 - `join_time_stamp`) < 3600 AND clan_tag = 'confed' AND clan_tag = 'xcfx'
+	```

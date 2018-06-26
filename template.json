@@ -1,0 +1,27 @@
+{
+  "content": "",
+  "embed": {
+    "title": "'.$streamName.'",
+    "type": "rich",
+    "description": "'.$streamStatus.'",
+    "url": "'.$streamURL.'",
+    "color": 10175220,
+    "thumbnail": {
+      "url": "'.$streamLogo.'",
+      "height": 100,
+      "width": 100
+    },
+    "fields": [
+      {
+        "name": "Game",
+        "value": "'.$streamGame.'",
+        "inline": 1
+      },
+      {
+        "name": "Followers",
+        "value": "'.$streamFollowers.'",
+        "inline": 1
+      }
+    ]
+  }
+}

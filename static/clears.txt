@@ -1,0 +1,707 @@
+[{"attachments": [], "tts": false, "embeds": [], "timestamp": "2018-05-30T01:38:41.392000+00:00", "mention_everyone": false, "id": "451197728790413323", "pinned": false, "edited_timestamp": null, "author": {"username": "Shortland", "discriminator": "3839", "id": "131231443694125056", "avatar": "0d7c8c76af32e4f9fa6e36600d681d90"}, "mention_roles": [], "content": "~clear 451188550889766912", "channel_id": "451188550889766912", "mentions": [], "type": 0}, {"attachments": [], "tts": false, "embeds": [], "timestamp": "2018-05-30T01:38:16.176000+00:00", "mention_everyone": false, "id": "451197623026843648", "pinned": false, "edited_timestamp": null, "author": {"username": "Shortland", "discriminator": "3839", "id": "131231443694125056", "avatar": "0d7c8c76af32e4f9fa6e36600d681d90"}, "mention_roles": [], "content": "~h", "channel_id": "451188550889766912", "mentions": [], "type": 0}, {"attachments": [], "tts": false, "embeds": [], "timestamp": "2018-05-30T01:37:31.624000+00:00", "mention_everyone": false, "id": "451197436162211871", "pinned": false, "edited_timestamp": null, "author": {"username": "TaeJa", "discriminator": "3766", "bot": true, "id": "314503849459056652", "avatar": "c38ca75c61f5f91fda5b86f258427b29"}, "mention_roles": [], "content": "http://138.197.50.244/GOOSE/files/pics/PGhlYWQ+PHRpdGxlPkRvY3VtZW50IE1vdmVkPC90aXRsZT48L2hlYWQ+Cjxib2R5PjxoMT5PYmplY3QgTW92ZWQ8L2gxPlRoaXMgZG9jdW1lbnQgbWF5IGJlIGZvdW5kIDxhIEhSRUY9Imh0dHBzOi8vd3d3LnNldGdldGdvLmNvbS9yYW5kb213b3JkL2dldC5waHAiPmhlcmU8L2E+PC9ib2R5Pg.png", "channel_id": "451188550889766912", "mentions": [], "type": 0}, {"attachments": [], "tts": false, "embeds": [], "timestamp": "2018-05-30T01:37:29.909000+00:00", "mention_everyone": false, "id": "451197428968980510", "pinned": false, "edited_timestamp": null, "author": {"username": "Shortland", "discriminator": "3839", "id": "131231443694125056", "avatar": "0d7c8c76af32e4f9fa6e36600d681d90"}, "mention_roles": [], "content": "~typing", "channel_id": "451188550889766912", "mentions": [], "type": 0}, {"attachments": [], "tts": false, "embeds": [{"url": "http://138.197.50.244/GOOSE/files/kittens/16.jpg", "type": "image", "thumbnail": {"url": "http://138.197.50.244/GOOSE/files/kittens/16.jpg", "width": 160, "proxy_url": "https://images-ext-1.discordapp.net/external/hGloJacg5YX8MIKr4NLXY6LCzcnyBgcIDOraxu79JD0/http/138.197.50.244/GOOSE/files/kittens/16.jpg", "height": 160}}], "timestamp": "2018-05-30T01:37:21.949000+00:00", "mention_everyone": false, "id": "451197395582058497", "pinned": false, "edited_timestamp": null, "author": {"username": "TaeJa", "discriminator": "3766", "bot": true, "id": "314503849459056652", "avatar": "c38ca75c61f5f91fda5b86f258427b29"}, "mention_roles": [], "content": "http://138.197.50.244/GOOSE/files/kittens/16.jpg", "channel_id": "451188550889766912", "mentions": [], "type": 0}, {"attachments": [], "tts": false, "embeds": [], "timestamp": "2018-05-30T01:37:20.896000+00:00", "mention_everyone": false, "id": "451197391165456404", "pinned": false, "edited_timestamp": null, "author": {"username": "Shortland", "discriminator": "3839", "id": "131231443694125056", "avatar": "0d7c8c76af32e4f9fa6e36600d681d90"}, "mention_roles": [], "content": "~kittens pic", "channel_id": "451188550889766912", "mentions": [], "type": 0}, {"attachments": [], "tts": false, "embeds": [], "timestamp": "2018-05-30T01:37:14.970000+00:00", "mention_everyone": false, "id": "451197366310010882", "pinned": false, "edited_timestamp": null, "author": {"username": "Shortland", "discriminator": "3839", "id": "131231443694125056", "avatar": "0d7c8c76af32e4f9fa6e36600d681d90"}, "mention_roles": [], "content": "~kittens all", "channel_id": "451188550889766912", "mentions": [], "type": 0}, {"attachments": [], "tts": false, "embeds": [], "timestamp": "2018-05-30T01:37:05.073000+00:00", "mention_everyone": false, "id": "451197324799246346", "pinned": false, "edited_timestamp": null, "author": {"username": "TaeJa", "discriminator": "3766", "bot": true, "id": "314503849459056652", "avatar": "c38ca75c61f5f91fda5b86f258427b29"}, "mention_roles": [], "content": "You have 7 kittens :kissing_cat:", "channel_id": "451188550889766912", "mentions": [], "type": 0}, {"attachments": [], "tts": false, "embeds": [], "timestamp": "2018-05-30T01:37:03.941000+00:00", "mention_everyone": false, "id": "451197320051294219", "pinned": false, "edited_timestamp": null, "author": {"username": "Shortland", "discriminator": "3839", "id": "131231443694125056", "avatar": "0d7c8c76af32e4f9fa6e36600d681d90"}, "mention_roles": [], "content": "~kittens", "channel_id": "451188550889766912", "mentions": [], "type": 0}, {"attachments": [], "tts": false, "embeds": [], "timestamp": "2018-05-30T01:37:01.376000+00:00", "mention_everyone": false, "id": "451197309292904459", "pinned": false, "edited_timestamp": null, "author": {"username": "TaeJa", "discriminator": "3766", "bot": true, "id": "314503849459056652", "avatar": "c38ca75c61f5f91fda5b86f258427b29"}, "mention_roles": [], "content": "\u00af\\_(\u30c4)_/\u00af", "channel_id": "451188550889766912", "mentions": [], "type": 0}, {"attachments": [], "tts": false, "embeds": [], "timestamp": "2018-05-30T01:37:00.166000+00:00", "mention_everyone": false, "id": "451197304217796608", "pinned": false, "edited_timestamp": null, "author": {"username": "Shortland", "discriminator": "3839", "id": "131231443694125056", "avatar": "0d7c8c76af32e4f9fa6e36600d681d90"}, "mention_roles": [], "content": "~shrug", "channel_id": "451188550889766912", "mentions": [], "type": 0}, {"attachments": [], "tts": false, "embeds": [{"description": "Chobo Team League (CTL) is a Proleague format Clanwar league for players Gold-Masters. Players will play a single match (except the Masters player plays a best-of 3)", "title": "Chobo Team League (CTL)", "url": "http://choboteamleague.com", "fields": [{"inline": true, "name": "CTL Website", "value": "[ChoboTeamLeague.com](http://choboteamleague.com)"}, {"inline": true, "name": "Video Guide", "value": "[https://www.twitch.tv/videos/143977542](https://www.twitch.tv/videos/143977542)"}, {"inline": false, "name": "About", "value": "Players themselves schedule their matches in the week, so there is no need to worry about coming to a set time and date. When scheduling players must state their availability and timezone surely (no ifs or maybes) The due date for contacting is Wednesday at 8 pm PST and the deadline for playing your assigned match is Sunday at 8 pm PST."}, {"inline": false, "name": "Replay Submission", "value": "When you have played your match/es. The winner must submit the replay over to the correct CTL Google-Drive folder. Replays must be renamed according as follows:\n Week# Set# Map Name(player1 vs player2)"}, {"inline": false, "name": "How do I know I play?", "value": "Each week our captain HoneyBadger will select who'll play for the week. He'll message you on Discord. Also, let him know if you'd like to participate."}], "color": 16776960, "type": "rich", "thumbnail": {"url": "https://static-cdn.jtvnw.net/jtv_user_pictures/choboteamleague-profile_image-e2c34336395c1627-300x300.png", "width": 300, "proxy_url": "https://images-ext-2.discordapp.net/external/dRoaDNUC0vOtL5zRhMKRA4n3hkiLQMzhTXCmOpxDFp0/https/static-cdn.jtvnw.net/jtv_user_pictures/choboteamleague-profile_image-e2c34336395c1627-300x300.png", "height": 300}}], "timestamp": "2018-05-30T01:36:43.302000+00:00", "mention_everyone": false, "id": "451197233485053963", "pinned": false, "edited_timestamp": null, "author": {"username": "TaeJa", "discriminator": "3766", "bot": true, "id": "314503849459056652", "avatar": "c38ca75c61f5f91fda5b86f258427b29"}, "mention_roles": [], "content": "", "channel_id": "451188550889766912", "mentions": [], "type": 0}, {"attachments": [], "tts": false, "embeds": [], "timestamp": "2018-05-30T01:36:42.206000+00:00", "mention_everyone": false, "id": "451197228887834634", "pinned": false, "edited_timestamp": null, "author": {"username": "Shortland", "discriminator": "3839", "id": "131231443694125056", "avatar": "0d7c8c76af32e4f9fa6e36600d681d90"}, "mention_roles": [], "content": "~ctl", "channel_id": "451188550889766912", "mentions": [], "type": 0}, {"attachments": [], "tts": false, "embeds": [], "timestamp": "2018-05-30T01:36:31.368000+00:00", "mention_everyone": false, "id": "451197183430098974", "pinned": false, "edited_timestamp": null, "author": {"username": "TaeJa", "discriminator": "3766", "bot": true, "id": "314503849459056652", "avatar": "c38ca75c61f5f91fda5b86f258427b29"}, "mention_roles": [], "content": "server: us", "channel_id": "451188550889766912", "mentions": [], "type": 0}, {"attachments": [], "tts": false, "embeds": [], "timestamp": "2018-05-30T01:36:31.278000+00:00", "mention_everyone": false, "id": "451197183052611587", "pinned": false, "edited_timestamp": null, "author": {"username": "TaeJa", "discriminator": "3766", "bot": true, "id": "314503849459056652", "avatar": "c38ca75c61f5f91fda5b86f258427b29"}, "mention_roles": [], "content": "Server MMR bounds:", "channel_id": "451188550889766912", "mentions": [], "type": 0}, {"attachments": [], "tts": false, "embeds": [], "timestamp": "2018-05-30T01:36:29.257000+00:00", "mention_everyone": false, "id": "451197174575923200", "pinned": false, "edited_timestamp": null, "author": {"username": "Shortland", "discriminator": "3839", "id": "131231443694125056", "avatar": "0d7c8c76af32e4f9fa6e36600d681d90"}, "mention_roles": [], "content": "~bounds", "channel_id": "451188550889766912", "mentions": [], "type": 0}, {"attachments": [], "tts": false, "embeds": [], "timestamp": "2018-05-30T01:36:13.062000+00:00", "mention_everyone": false, "id": "451197106649038851", "pinned": false, "edited_timestamp": null, "author": {"username": "TaeJa", "discriminator": "3766", "bot": true, "id": "314503849459056652", "avatar": "c38ca75c61f5f91fda5b86f258427b29"}, "mention_roles": [], "content": "Streams I check:\nsweetness\nrajzilla\nstrawbuni\nsc2_zest\nmaru\nscarlettm\nqkrfuddn0\nsc2soo\ninnovation_s\nbyunprime\nmikm0nk0\nxkiraxxxx\ngosu_pvp\nking_kazuhiro\nconfed_orion\ntechfour\nchoboteamleague\npatience\negjd\nconfedlive\nboosc\nremoford\ndynoman10\nstarcraft\nairosskopf\ndmadkr0818\nkimclassic\nzx2362\nflanders\ngumiho\npuckk\nmcanning\nvibridtv\npicursc2\nkillerwoc\nstatesc2\nthenydus\npokadotcupcake\nldn41\npartingthebigboy\nforte\ndaptoreact0\nmcmonroe\ngeminisc2\nascpraiise\nlivinlarge\nx5_pig\nduster_man\nzerg3rr\ndeadzergsc2\nscorplingg\nelevatebails\npolt\nkimdaeyeob3\nneuro\ndragon\njuggernautjason\nartosis\navilo\nsc2creator\nincontroltv\nliquidmana\nrotterdam\nmvp_pet\nmyungsik\nsiegfriedsc\nsupernovamaniac\nn33bl3t\norion__sc2\nryung1\nzerg0\ngsl\nbossterran\nbasetradetv\ntheoneandonlylegend1988\nde_dunetv\ndlifeapex\ninnovation_s2\nflanders992\nimeurotrash\njudiciumpassed\ntopgunstream\npinecone13\nbostossmc", "channel_id": "451188550889766912", "mentions": [], "type": 0}, {"attachments": [], "tts": false, "embeds": [], "timestamp": "2018-05-30T01:36:11.930000+00:00", "mention_everyone": false, "id": "451197101901217802", "pinned": false, "edited_timestamp": null, "author": {"username": "Shortland", "discriminator": "3839", "id": "131231443694125056", "avatar": "0d7c8c76af32e4f9fa6e36600d681d90"}, "mention_roles": [], "content": "~stream all", "channel_id": "451188550889766912", "mentions": [], "type": 0}, {"attachments": [], "tts": false, "embeds": [], "timestamp": "2018-05-30T01:35:54.936000+00:00", "mention_everyone": false, "webhook_id": "451196346657931274", "id": "451197030623084554", "pinned": false, "edited_timestamp": null, "author": {"username": "TaeJa", "discriminator": "0000", "bot": true, "id": "451196346657931274", "avatar": "5d781a6da8b95c2be4e07ba5d8b925df"}, "mention_roles": [], "content": "<:PROTOSS:278762398347689984><:PLATINUM1:278725419056758784>[3] Itachi#54400 <:NA:297912161064452096> (mmr:3176)\n<:PROTOSS:278762398347689984><:GOLD1:278725419073536012>[2] Werner#42700 <:NA:297912161064452096> (mmr:3019)\n<:ZERG:278762452265467907><:GOLD1:278725419073536012>[3] KadSkirata#63300 <:NA:297912161064452096> (mmr:2915)\n<:PROTOSS:278762398347689984><:GOLD1:278725419073536012>[3] alphajets#76400 <:NA:297912161064452096> (mmr:2844)", "channel_id": "451188550889766912", "mentions": [], "type": 0}, {"attachments": [], "tts": false, "embeds": [], "timestamp": "2018-05-30T01:35:54.643000+00:00", "mention_everyone": false, "webhook_id": "451196346657931274", "id": "451197029394284571", "pinned": false, "edited_timestamp": null, "author": {"username": "TaeJa", "discriminator": "0000", "bot": true, "id": "451196346657931274", "avatar": "5d781a6da8b95c2be4e07ba5d8b925df"}, "mention_roles": [], "content": "<:ZERG:278762452265467907><:DIAMOND1:278725418960551937>[3] Achilles#287500 <:NA:297912161064452096> (mmr:3528)\n<:ZERG:278762452265467907><:DIAMOND1:278725418960551937>[3] Amicus#77000 <:NA:297912161064452096> (mmr:3507)\n<:ZERG:278762452265467907><:PLATINUM1:278725419056758784>[1] Cyondris#98200 <:NA:297912161064452096> (mmr:3507)\n<:RANDOM:278762354001444864><:PLATINUM1:278725419056758784>[1] NormCharlton#50200 <:NA:297912161064452096> (mmr:3476)\n<:PROTOSS:278762398347689984><:PLATINUM1:278725419056758784>[1] Creative#81200 <:NA:297912161064452096> (mmr:3463)\n<:ZERG:278762452265467907><:PLATINUM1:278725419056758784>[2] potato#134000 <:NA:297912161064452096> (mmr:3446)\n<:PROTOSS:278762398347689984><:PLATINUM1:278725419056758784>[2] KyeMech#34700 <:NA:297912161064452096> (mmr:3353)\n<:PROTOSS:278762398347689984><:PLATINUM1:278725419056758784>[2] HoneyBadger#159100 <:NA:297912161064452096> (mmr:3349)\n<:TERRAN:278762425552207883><:PLATINUM1:278725419056758784>[2] potato#134000 <:NA:297912161064452096> (mmr:3331)\n<:TERRAN:278762425552207883><:PLATINUM1:278725419056758784>[2] reINVISION#55400 <:NA:297912161064452096> (mmr:3316)\n<:TERRAN:278762425552207883><:PLATINUM1:278725419056758784>[1] Achilles#287500 <:NA:297912161064452096> (mmr:3300)\n<:ZERG:278762452265467907><:PLATINUM1:278725419056758784>[2] alphajets#76400 <:NA:297912161064452096> (mmr:3296)\n<:TERRAN:278762425552207883><:PLATINUM1:278725419056758784>[2] Blazefort#37100 <:NA:297912161064452096> (mmr:3268)\n<:TERRAN:278762425552207883><:PLATINUM1:278725419056758784>[3] NormCharlton#50200 <:NA:297912161064452096> (mmr:3252)\n<:ZERG:278762452265467907><:PLATINUM1:278725419056758784>[2] Chai#87400 <:NA:297912161064452096> (mmr:3216)", "channel_id": "451188550889766912", "mentions": [], "type": 0}, {"attachments": [], "tts": false, "embeds": [], "timestamp": "2018-05-30T01:35:54.398000+00:00", "mention_everyone": false, "webhook_id": "451196346657931274", "id": "451197028366811156", "pinned": false, "edited_timestamp": null, "author": {"username": "TaeJa", "discriminator": "0000", "bot": true, "id": "451196346657931274", "avatar": "5d781a6da8b95c2be4e07ba5d8b925df"}, "mention_roles": [], "content": "<:TERRAN:278762425552207883><:DIAMOND1:278725418960551937>[2] excloud#24400 <:NA:297912161064452096> (mmr:3954)\n<:ZERG:278762452265467907><:DIAMOND1:278725418960551937>[3] NormCharlton#50200 <:NA:297912161064452096> (mmr:3836)\n<:TERRAN:278762425552207883><:DIAMOND1:278725418960551937>[3] youngjiddle#84000 <:NA:297912161064452096> (mmr:3794)\n<:TERRAN:278762425552207883><:DIAMOND1:278725418960551937>[2] Happy#119600 <:NA:297912161064452096> (mmr:3745)\n<:ZERG:278762452265467907><:DIAMOND1:278725418960551937>[3] SniperSC#22700 <:NA:297912161064452096> (mmr:3735)\n<:TERRAN:278762425552207883><:DIAMOND1:278725418960551937>[3] DEVIN#167000 <:NA:297912161064452096> (mmr:3731)\n<:ZERG:278762452265467907><:DIAMOND1:278725418960551937>[3] Lemmons#45300 <:NA:297912161064452096> (mmr:3696)\n<:TERRAN:278762425552207883><:DIAMOND1:278725418960551937>[3] DhOjhA#13800 <:NA:297912161064452096> (mmr:3660)\n<:ZERG:278762452265467907><:DIAMOND1:278725418960551937>[3] Jaximus#82400 <:NA:297912161064452096> (mmr:3642)\n<:PROTOSS:278762398347689984><:DIAMOND1:278725418960551937>[3] bewd#83600 <:NA:297912161064452096> (mmr:3639)\n<:PROTOSS:278762398347689984><:DIAMOND1:278725418960551937>[3] potato#134000 <:NA:297912161064452096> (mmr:3622)\n<:TERRAN:278762425552207883><:DIAMOND1:278725418960551937>[3] Amicus#77000 <:NA:297912161064452096> (mmr:3619)\n<:PROTOSS:278762398347689984><:PLATINUM1:278725419056758784>[1] Achilles#287500 <:NA:297912161064452096> (mmr:3549)\n<:TERRAN:278762425552207883><:DIAMOND1:278725418960551937>[3] alphajets#76400 <:NA:297912161064452096> (mmr:3541)\n<:ZERG:278762452265467907><:PLATINUM1:278725419056758784>[1] Kenpachi#64300 <:NA:297912161064452096> (mmr:3532)", "channel_id": "451188550889766912", "mentions": [], "type": 0}, {"attachments": [], "tts": false, "embeds": [], "timestamp": "2018-05-30T01:35:54.099000+00:00", "mention_everyone": false, "webhook_id": "451196346657931274", "id": "451197027112714282", "pinned": false, "edited_timestamp": null, "author": {"username": "TaeJa", "discriminator": "0000", "bot": true, "id": "451196346657931274", "avatar": "5d781a6da8b95c2be4e07ba5d8b925df"}, "mention_roles": [], "content": "<:TERRAN:278762425552207883><:MASTER1:278725418679271425>[3] Jacobis#27500 <:NA:297912161064452096> (mmr:4632)\n<:PROTOSS:278762398347689984><:MASTER1:278725418679271425>[3] youngjiddle#84000 <:NA:297912161064452096> (mmr:4585)\n<:PROTOSS:278762398347689984><:DIAMOND1:278725418960551937>[1] soLo#196700 <:NA:297912161064452096> (mmr:4507)\n<:TERRAN:278762425552207883><:MASTER1:278725418679271425>[3] MauiWaui#57800 <:NA:297912161064452096> (mmr:4506)\n<:TERRAN:278762425552207883><:DIAMOND1:278725418960551937>[1] Cryptys#96000 <:NA:297912161064452096> (mmr:4474)\n<:PROTOSS:278762398347689984><:DIAMOND1:278725418960551937>[1] K\u00ec\u00ec\u00ec\u00c2#34500 <:NA:297912161064452096> (mmr:4181)\n<:ZERG:278762452265467907><:DIAMOND1:278725418960551937>[2] Benaiah#98700 <:NA:297912161064452096> (mmr:4106)\n<:TERRAN:278762425552207883><:DIAMOND1:278725418960551937>[2] DerF\u00fchrer#13000 <:NA:297912161064452096> (mmr:4086)\n<:ZERG:278762452265467907><:DIAMOND1:278725418960551937>[2] KingVulture#80600 <:NA:297912161064452096> (mmr:4085)\n<:ZERG:278762452265467907><:DIAMOND1:278725418960551937>[2] KillJoy#192400 <:NA:297912161064452096> (mmr:4082)\n<:PROTOSS:278762398347689984><:DIAMOND1:278725418960551937>[2] ZeraSabre#97200 <:NA:297912161064452096> (mmr:4072)\n<:RANDOM:278762354001444864><:DIAMOND1:278725418960551937>[2] Spaceman#21200 <:NA:297912161064452096> (mmr:4041)\n<:TERRAN:278762425552207883><:DIAMOND1:278725418960551937>[2] HoneyBadger#159100 <:NA:297912161064452096> (mmr:4029)\n<:ZERG:278762452265467907><:DIAMOND1:278725418960551937>[2] Happy#119600 <:NA:297912161064452096> (mmr:3983)\n<:TERRAN:278762425552207883><:DIAMOND1:278725418960551937>[2] Matt#558300 <:NA:297912161064452096> (mmr:3963)", "channel_id": "451188550889766912", "mentions": [], "type": 0}, {"attachments": [], "tts": false, "embeds": [], "timestamp": "2018-05-30T01:35:53.886000+00:00", "mention_everyone": false, "webhook_id": "451196346657931274", "id": "451197026219327489", "pinned": false, "edited_timestamp": null, "author": {"username": "TaeJa", "discriminator": "0000", "bot": true, "id": "451196346657931274", "avatar": "5d781a6da8b95c2be4e07ba5d8b925df"}, "mention_roles": [], "content": "<:TERRAN:278762425552207883><:MASTER1:278725418679271425>[1] SkyPain#19900 <:NA:297912161064452096> (mmr:5790)\n<:TERRAN:278762425552207883><:GRANDMASTER:278725419186782208>[1] PracticeX#81600 <:NA:297912161064452096> (mmr:5597)\n<:TERRAN:278762425552207883><:GRANDMASTER:278725419186782208>[1] Skyler#68800 <:NA:297912161064452096> (mmr:5476)\n<:ZERG:278762452265467907><:MASTER1:278725418679271425>[1] Proxy#61700 <:NA:297912161064452096> (mmr:5204)\n<:ZERG:278762452265467907><:MASTER1:278725418679271425>[1] Jacobis#27500 <:NA:297912161064452096> (mmr:5035)\n<:TERRAN:278762425552207883><:MASTER1:278725418679271425>[2] Typic#55400 <:NA:297912161064452096> (mmr:4948)\n<:RANDOM:278762354001444864><:MASTER1:278725418679271425>[2] Jacobis#27500 <:NA:297912161064452096> (mmr:4861)\n<:TERRAN:278762425552207883><:MASTER1:278725418679271425>[2] ArmyMan#54600 <:NA:297912161064452096> (mmr:4832)\n<:PROTOSS:278762398347689984><:MASTER1:278725418679271425>[1] SuperMario#29200 <:NA:297912161064452096> (mmr:4807)\n<:ZERG:278762452265467907><:MASTER1:278725418679271425>[2] ArmyMan#54600 <:NA:297912161064452096> (mmr:4803)\n<:TERRAN:278762425552207883><:MASTER1:278725418679271425>[3] Prosper#16400 <:NA:297912161064452096> (mmr:4714)\n<:ZERG:278762452265467907><:MASTER1:278725418679271425>[2] Skyler#68800 <:NA:297912161064452096> (mmr:4707)\n<:PROTOSS:278762398347689984><:MASTER1:278725418679271425>[2] Skyler#68800 <:NA:297912161064452096> (mmr:4707)\n<:TERRAN:278762425552207883><:MASTER1:278725418679271425>[3] Wugi#28500 <:NA:297912161064452096> (mmr:4700)\n<:PROTOSS:278762398347689984><:MASTER1:278725418679271425>[2] Freak#84900 <:NA:297912161064452096> (mmr:4644)\n<:TERRAN:278762425552207883><:MASTER1:278725418679271425>[3] NoticeSenpai#15400 <:NA:297912161064452096> (mmr:4643)", "channel_id": "451188550889766912", "mentions": [], "type": 0}, {"attachments": [], "tts": false, "embeds": [], "timestamp": "2018-05-30T01:35:53.541000+00:00", "mention_everyone": false, "id": "451197024772292620", "pinned": false, "edited_timestamp": null, "author": {"username": "Shortland", "discriminator": "3839", "id": "131231443694125056", "avatar": "0d7c8c76af32e4f9fa6e36600d681d90"}, "mention_roles": [], "content": "~clan llitl", "channel_id": "451188550889766912", "mentions": [], "type": 0}, {"attachments": [], "tts": false, "embeds": [], "timestamp": "2018-05-30T01:35:46.190000+00:00", "mention_everyone": false, "id": "451196993939963924", "pinned": false, "edited_timestamp": null, "author": {"username": "TaeJa", "discriminator": "3766", "bot": true, "id": "314503849459056652", "avatar": "c38ca75c61f5f91fda5b86f258427b29"}, "mention_roles": [], "content": "unable to find any members of that clan", "channel_id": "451188550889766912", "mentions": [], "type": 0}, {"attachments": [], "tts": false, "embeds": [], "timestamp": "2018-05-30T01:35:44.945000+00:00", "mention_everyone": false, "id": "451196988717793282", "pinned": false, "edited_timestamp": null, "author": {"username": "Shortland", "discriminator": "3839", "id": "131231443694125056", "avatar": "0d7c8c76af32e4f9fa6e36600d681d90"}, "mention_roles": [], "content": "~clan lit", "channel_id": "451188550889766912", "mentions": [], "type": 0}, {"attachments": [], "tts": false, "embeds": [], "timestamp": "2018-05-30T01:35:38.614000+00:00", "mention_everyone": false, "webhook_id": "451196346657931274", "id": "451196962163654662", "pinned": false, "edited_timestamp": null, "author": {"username": "TaeJa", "discriminator": "0000", "bot": true, "id": "451196346657931274", "avatar": "5d781a6da8b95c2be4e07ba5d8b925df"}, "mention_roles": [], "content": "<:ZERG:278762452265467907><:PLATINUM1:278725419056758784>[3] Terminus#83600 <:NA:297912161064452096> (mmr:3129)\n<:TERRAN:278762425552207883><:GOLD1:278725419073536012>[1] Pinaxo#28500 <:NA:297912161064452096> (mmr:3122)\n<:TERRAN:278762425552207883><:GOLD1:278725419073536012>[1] Nanoha#12200 <:NA:297912161064452096> (mmr:3117)\n<:RANDOM:278762354001444864><:GOLD1:278725419073536012>[1] Smiles#48900 <:NA:297912161064452096> (mmr:3093)\n<:ZERG:278762452265467907><:GOLD1:278725419073536012>[1] Pinaxo#28500 <:NA:297912161064452096> (mmr:3091)\n<:RANDOM:278762354001444864><:GOLD1:278725419073536012>[1] DarkSwarm#71300 <:NA:297912161064452096> (mmr:3011)\n<:RANDOM:278762354001444864><:PLATINUM1:278725419056758784>[3] Nanoha#12200 <:NA:297912161064452096> (mmr:3005)\n<:PROTOSS:278762398347689984><:GOLD1:278725419073536012>[2] Pinaxo#28500 <:NA:297912161064452096> (mmr:2994)\n<:PROTOSS:278762398347689984><:GOLD1:278725419073536012>[2] Minarius#23700 <:NA:297912161064452096> (mmr:2987)\n<:TERRAN:278762425552207883><:GOLD1:278725419073536012>[2] MemeBooty#86300 <:NA:297912161064452096> (mmr:2957)\n<:PROTOSS:278762398347689984><:GOLD1:278725419073536012>[2] Nanoha#12200 <:NA:297912161064452096> (mmr:2940)\n<:PROTOSS:278762398347689984><:SILVER2:278725418813751297>[2] Nico#166000 <:NA:297912161064452096> (mmr:2588)\n<:TERRAN:278762425552207883><:SILVER2:278725418813751297>[1] Elssoo#91700 <:NA:297912161064452096> (mmr:2510)\n<:ZERG:278762452265467907><:SILVER2:278725418813751297>[2] Elssoo#91700 <:NA:297912161064452096> (mmr:2358)", "channel_id": "451188550889766912", "mentions": [], "type": 0}, {"attachments": [], "tts": false, "embeds": [], "timestamp": "2018-05-30T01:35:38.263000+00:00", "mention_everyone": false, "webhook_id": "451196346657931274", "id": "451196960691585025", "pinned": false, "edited_timestamp": null, "author": {"username": "TaeJa", "discriminator": "0000", "bot": true, "id": "451196346657931274", "avatar": "5d781a6da8b95c2be4e07ba5d8b925df"}, "mention_roles": [], "content": "<:PROTOSS:278762398347689984><:PLATINUM1:278725419056758784>[1] DarkSwarm#71300 <:NA:297912161064452096> (mmr:3568)\n<:ZERG:278762452265467907><:PLATINUM1:278725419056758784>[1] Kira#254700 <:NA:297912161064452096> (mmr:3540)\n<:PROTOSS:278762398347689984><:DIAMOND1:278725418960551937>[3] Vanarian#84900 <:NA:297912161064452096> (mmr:3501)\n<:ZERG:278762452265467907><:PLATINUM1:278725419056758784>[1] Waffles#37300 <:NA:297912161064452096> (mmr:3444)\n<:RANDOM:278762354001444864><:PLATINUM1:278725419056758784>[2] TheTravii#64400 <:NA:297912161064452096> (mmr:3406)\n<:TERRAN:278762425552207883><:PLATINUM1:278725419056758784>[2] DarkSwarm#71300 <:NA:297912161064452096> (mmr:3357)\n<:PROTOSS:278762398347689984><:PLATINUM1:278725419056758784>[2] SwagHellaZ#17500 <:NA:297912161064452096> (mmr:3349)\n<:TERRAN:278762425552207883><:PLATINUM1:278725419056758784>[2] SeventhSign#19100 <:NA:297912161064452096> (mmr:3291)\n<:TERRAN:278762425552207883><:PLATINUM1:278725419056758784>[3] DrDetroit#97300 <:NA:297912161064452096> (mmr:3283)\n<:RANDOM:278762354001444864><:PLATINUM1:278725419056758784>[3] SwagHellaZ#17500 <:NA:297912161064452096> (mmr:3262)\n<:ZERG:278762452265467907><:PLATINUM1:278725419056758784>[3] SwagHellaZ#17500 <:NA:297912161064452096> (mmr:3252)\n<:ZERG:278762452265467907><:PLATINUM1:278725419056758784>[3] AgentAAA#77000 <:NA:297912161064452096> (mmr:3238)\n<:ZERG:278762452265467907><:PLATINUM1:278725419056758784>[3] Nanoha#12200 <:NA:297912161064452096> (mmr:3211)\n<:PROTOSS:278762398347689984><:PLATINUM1:278725419056758784>[3] derp#33700 <:NA:297912161064452096> (mmr:3206)\n<:TERRAN:278762425552207883><:PLATINUM1:278725419056758784>[3] AndyRob#75900 <:NA:297912161064452096> (mmr:3164)", "channel_id": "451188550889766912", "mentions": [], "type": 0}, {"attachments": [], "tts": false, "embeds": [], "timestamp": "2018-05-30T01:35:38.056000+00:00", "mention_everyone": false, "webhook_id": "451196346657931274", "id": "451196959823233025", "pinned": false, "edited_timestamp": null, "author": {"username": "TaeJa", "discriminator": "0000", "bot": true, "id": "451196346657931274", "avatar": "5d781a6da8b95c2be4e07ba5d8b925df"}, "mention_roles": [], "content": "<:RANDOM:278762354001444864><:DIAMOND1:278725418960551937>[3] MrBrightside#37200 <:NA:297912161064452096> (mmr:3844)\n<:ZERG:278762452265467907><:DIAMOND1:278725418960551937>[2] SnowNinja#19000 <:NA:297912161064452096> (mmr:3825)\n<:TERRAN:278762425552207883><:DIAMOND1:278725418960551937>[3] MrBrightside#37200 <:NA:297912161064452096> (mmr:3812)\n<:ZERG:278762452265467907><:DIAMOND1:278725418960551937>[3] DrDetroit#97300 <:NA:297912161064452096> (mmr:3803)\n<:ZERG:278762452265467907><:DIAMOND1:278725418960551937>[3] AndyRob#75900 <:NA:297912161064452096> (mmr:3800)\n<:PROTOSS:278762398347689984><:DIAMOND1:278725418960551937>[3] MrBrightside#37200 <:NA:297912161064452096> (mmr:3786)\n<:PROTOSS:278762398347689984><:DIAMOND1:278725418960551937>[3] drgreenthumb#26300 <:NA:297912161064452096> (mmr:3780)\n<:ZERG:278762452265467907><:DIAMOND1:278725418960551937>[3] DarkSwarm#71300 <:NA:297912161064452096> (mmr:3761)\n<:ZERG:278762452265467907><:DIAMOND1:278725418960551937>[3] TheBigTG#76500 <:NA:297912161064452096> (mmr:3731)\n<:ZERG:278762452265467907><:DIAMOND1:278725418960551937>[3] Asamov#15300 <:NA:297912161064452096> (mmr:3713)\n<:TERRAN:278762425552207883><:DIAMOND1:278725418960551937>[3] SwagHellaZ#17500 <:NA:297912161064452096> (mmr:3650)\n<:ZERG:278762452265467907><:DIAMOND1:278725418960551937>[3] Smiles#48900 <:NA:297912161064452096> (mmr:3625)\n<:TERRAN:278762425552207883><:DIAMOND1:278725418960551937>[3] WarTankPrime#30000 <:NA:297912161064452096> (mmr:3610)\n<:TERRAN:278762425552207883><:DIAMOND1:278725418960551937>[3] MsbowElite#52200 <:NA:297912161064452096> (mmr:3598)\n<:PROTOSS:278762398347689984><:DIAMOND1:278725418960551937>[3] RogueSaint#35100 <:NA:297912161064452096> (mmr:3596)", "channel_id": "451188550889766912", "mentions": [], "type": 0}, {"attachments": [], "tts": false, "embeds": [], "timestamp": "2018-05-30T01:35:37.806000+00:00", "mention_everyone": false, "webhook_id": "451196346657931274", "id": "451196958774919168", "pinned": false, "edited_timestamp": null, "author": {"username": "TaeJa", "discriminator": "0000", "bot": true, "id": "451196346657931274", "avatar": "5d781a6da8b95c2be4e07ba5d8b925df"}, "mention_roles": [], "content": "<:ZERG:278762452265467907><:DIAMOND1:278725418960551937>[1] Corazon#23800 <:NA:297912161064452096> (mmr:4240)\n<:PROTOSS:278762398347689984><:DIAMOND1:278725418960551937>[2] Knack#37300 <:NA:297912161064452096> (mmr:4135)\n<:ZERG:278762452265467907><:DIAMOND1:278725418960551937>[2] Overkill#80800 <:NA:297912161064452096> (mmr:4121)\n<:RANDOM:278762354001444864><:DIAMOND1:278725418960551937>[2] Corazon#23800 <:NA:297912161064452096> (mmr:4088)\n<:ZERG:278762452265467907><:DIAMOND1:278725418960551937>[2] Markuverse#92100 <:NA:297912161064452096> (mmr:4043)\n<:TERRAN:278762425552207883><:DIAMOND1:278725418960551937>[2] Remo#53800 <:NA:297912161064452096> (mmr:4033)\n<:PROTOSS:278762398347689984><:DIAMOND1:278725418960551937>[2] TheTravii#64400 <:NA:297912161064452096> (mmr:4025)\n<:ZERG:278762452265467907><:DIAMOND1:278725418960551937>[2] MrBrightside#37200 <:NA:297912161064452096> (mmr:4019)\n<:TERRAN:278762425552207883><:DIAMOND1:278725418960551937>[2] Markuverse#92100 <:NA:297912161064452096> (mmr:3982)\n<:RANDOM:278762354001444864><:DIAMOND1:278725418960551937>[3] Kira#254700 <:NA:297912161064452096> (mmr:3971)\n<:PROTOSS:278762398347689984><:DIAMOND1:278725418960551937>[2] Leslie#41600 <:NA:297912161064452096> (mmr:3956)\n<:PROTOSS:278762398347689984><:DIAMOND1:278725418960551937>[2] E\u00e4rnur#24100 <:NA:297912161064452096> (mmr:3954)\n<:ZERG:278762452265467907><:DIAMOND1:278725418960551937>[2] Vanarian#84900 <:NA:297912161064452096> (mmr:3942)\n<:TERRAN:278762425552207883><:DIAMOND1:278725418960551937>[3] Kira#254700 <:NA:297912161064452096> (mmr:3936)\n<:RANDOM:278762354001444864><:DIAMOND1:278725418960551937>[3] pheo#36300 <:NA:297912161064452096> (mmr:3901)", "channel_id": "451188550889766912", "mentions": [], "type": 0}, {"attachments": [], "tts": false, "embeds": [], "timestamp": "2018-05-30T01:35:37.479000+00:00", "mention_everyone": false, "webhook_id": "451196346657931274", "id": "451196957403381761", "pinned": false, "edited_timestamp": null, "author": {"username": "TaeJa", "discriminator": "0000", "bot": true, "id": "451196346657931274", "avatar": "5d781a6da8b95c2be4e07ba5d8b925df"}, "mention_roles": [], "content": "<:PROTOSS:278762398347689984><:MASTER1:278725418679271425>[1] Gallant#27700 <:NA:297912161064452096> (mmr:5309)\n<:PROTOSS:278762398347689984><:MASTER1:278725418679271425>[1] CenturionMK#16600 <:NA:297912161064452096> (mmr:5306)\n<:PROTOSS:278762398347689984><:MASTER1:278725418679271425>[1] DWK#16200 <:NA:297912161064452096> (mmr:5197)\n<:TERRAN:278762425552207883><:MASTER1:278725418679271425>[1] KILLY#29900 <:NA:297912161064452096> (mmr:5115)\n<:TERRAN:278762425552207883><:MASTER1:278725418679271425>[2] CenturionMK#16600 <:NA:297912161064452096> (mmr:4839)\n<:PROTOSS:278762398347689984><:MASTER1:278725418679271425>[2] Davis#22300 <:NA:297912161064452096> (mmr:4819)\n<:PROTOSS:278762398347689984><:MASTER1:278725418679271425>[3] Centurion#23400 <:NA:297912161064452096> (mmr:4778)\n<:TERRAN:278762425552207883><:MASTER1:278725418679271425>[3] Bushido#69300 <:NA:297912161064452096> (mmr:4581)\n<:TERRAN:278762425552207883><:MASTER1:278725418679271425>[3] Commando#67700 <:NA:297912161064452096> (mmr:4578)\n<:PROTOSS:278762398347689984><:MASTER1:278725418679271425>[3] Fumblevore#62000 <:NA:297912161064452096> (mmr:4562)\n<:ZERG:278762452265467907><:DIAMOND1:278725418960551937>[1] Broketail#17400 <:NA:297912161064452096> (mmr:4553)\n<:TERRAN:278762425552207883><:MASTER1:278725418679271425>[3] Jasio#60000 <:NA:297912161064452096> (mmr:4505)\n<:PROTOSS:278762398347689984><:DIAMOND1:278725418960551937>[1] Kira#180100 <:NA:297912161064452096> (mmr:4497)\n<:ZERG:278762452265467907><:DIAMOND1:278725418960551937>[1] Moh#17200 <:NA:297912161064452096> (mmr:4442)\n<:TERRAN:278762425552207883><:DIAMOND1:278725418960551937>[1] Knack#37300 <:NA:297912161064452096> (mmr:4369)\n<:TERRAN:278762425552207883><:DIAMOND1:278725418960551937>[1] FishyFish#13300 <:NA:297912161064452096> (mmr:4353)", "channel_id": "451188550889766912", "mentions": [], "type": 0}, {"attachments": [], "tts": false, "embeds": [], "timestamp": "2018-05-30T01:35:37.065000+00:00", "mention_everyone": false, "id": "451196955666939925", "pinned": false, "edited_timestamp": null, "author": {"username": "Shortland", "discriminator": "3839", "id": "131231443694125056", "avatar": "0d7c8c76af32e4f9fa6e36600d681d90"}, "mention_roles": [], "content": "~clan confed", "channel_id": "451188550889766912", "mentions": [], "type": 0}, {"attachments": [], "tts": false, "embeds": [{"footer": {"text": "Last Server Update: Wed May 30 01:01:18 2018"}, "color": 4343284, "fields": [{"inline": false, "name": "Profile:", "value": "*http://us.battle.net/sc2/en/profile/4205779/1/Kingsbane/*"}, {"inline": false, "name": "RankedFTW:", "value": "*http://www.rankedftw.com/search/?name=http://us.battle.net/sc2/en/profile/4205779/1/Kingsbane/*"}, {"inline": true, "name": "Tier:", "value": "*1*"}, {"inline": true, "name": "MMR:", "value": "*5197*"}, {"inline": true, "name": "Wins:", "value": "*8*"}, {"inline": true, "name": "Losses:", "value": "*1*"}, {"inline": true, "name": "Longest Win Streak:", "value": "*7*"}, {"inline": true, "name": "Current Win Streak:", "value": "*7*"}, {"inline": true, "name": "Last 1v1:", "value": "*Thu May 24 00:34:20 2018*"}, {"inline": true, "name": "BattleNet Tag:", "value": "*WalkingMeme#1274*"}], "author": {"url": "http://us.battle.net/sc2/en/profile/4205779/1/Kingsbane/", "icon_url": "http://138.197.50.244/images/ZERG.png", "proxy_icon_url": "https://images-ext-1.discordapp.net/external/aES_y15vVwetsQ04VyYjJTJYRct9NQusg6K0H6TY3DE/http/138.197.50.244/images/ZERG.png", "name": "<BlGDIK> WalkingMeme#1274"}, "type": "rich", "thumbnail": {"url": "http://138.197.50.244/images/MASTER.png", "width": 136, "proxy_url": "https://images-ext-1.discordapp.net/external/Zm02M1oczOCBJdONOP8YiP7FjCBUlXrzmw7rTv4J8Z0/http/138.197.50.244/images/MASTER.png", "height": 136}}], "timestamp": "2018-05-30T01:35:15.598000+00:00", "mention_everyone": false, "webhook_id": "451196346657931274", "id": "451196865627815936", "pinned": false, "edited_timestamp": null, "author": {"username": "TaeJa", "discriminator": "0000", "bot": true, "id": "451196346657931274", "avatar": "5d781a6da8b95c2be4e07ba5d8b925df"}, "mention_roles": [], "content": "", "channel_id": "451188550889766912", "mentions": [], "type": 0}, {"attachments": [], "tts": false, "embeds": [], "timestamp": "2018-05-30T01:35:15.103000+00:00", "mention_everyone": false, "id": "451196863551373324", "pinned": false, "edited_timestamp": null, "author": {"username": "Shortland", "discriminator": "3839", "id": "131231443694125056", "avatar": "0d7c8c76af32e4f9fa6e36600d681d90"}, "mention_roles": [], "content": "~bnet WalkingMeme#1274", "channel_id": "451188550889766912", "mentions": [], "type": 0}, {"attachments": [], "tts": false, "embeds": [], "timestamp": "2018-05-30T01:35:08.766000+00:00", "mention_everyone": false, "id": "451196836972068905", "pinned": false, "edited_timestamp": null, "author": {"username": "Shortland", "discriminator": "3839", "id": "131231443694125056", "avatar": "0d7c8c76af32e4f9fa6e36600d681d90"}, "mention_roles": [], "content": "~bnet WalkingMeme#1274\\", "channel_id": "451188550889766912", "mentions": [], "type": 0}, {"attachments": [], "tts": false, "embeds": [{"footer": {"text": "Last Server Update: Wed May 30 01:01:18 2018"}, "color": 4343284, "fields": [{"inline": false, "name": "Profile:", "value": "*http://us.battle.net/sc2/en/profile/3801254/1/Shortland/*"}, {"inline": false, "name": "RankedFTW:", "value": "*http://www.rankedftw.com/search/?name=http://us.battle.net/sc2/en/profile/3801254/1/Shortland/*"}, {"inline": true, "name": "Tier:", "value": "*3*"}, {"inline": true, "name": "MMR:", "value": "*3778*"}, {"inline": true, "name": "Wins:", "value": "*11*"}, {"inline": true, "name": "Losses:", "value": "*2*"}, {"inline": true, "name": "Longest Win Streak:", "value": "*6*"}, {"inline": true, "name": "Current Win Streak:", "value": "*2*"}, {"inline": true, "name": "Last 1v1:", "value": "*Tue May 29 22:11:05 2018*"}, {"inline": true, "name": "BattleNet Tag:", "value": "*Shortland#1803*"}], "author": {"url": "http://us.battle.net/sc2/en/profile/3801254/1/Shortland/", "icon_url": "http://138.197.50.244/images/TERRAN.png", "proxy_icon_url": "https://images-ext-1.discordapp.net/external/ss7AONcvTolilB_QTq9jKP4rrR1ox8ZT8yRpWy8dH64/http/138.197.50.244/images/TERRAN.png", "name": "<> shortland"}, "type": "rich", "thumbnail": {"url": "http://138.197.50.244/images/DIAMOND.png", "width": 136, "proxy_url": "https://images-ext-2.discordapp.net/external/6ajYyp7L2xyb36ZcFXc2Dbria5ipfeNW_wl1rfOQXEc/http/138.197.50.244/images/DIAMOND.png", "height": 136}}], "timestamp": "2018-05-30T01:34:45.641000+00:00", "mention_everyone": false, "webhook_id": "451196346657931274", "id": "451196739979051008", "pinned": false, "edited_timestamp": null, "author": {"username": "TaeJa", "discriminator": "0000", "bot": true, "id": "451196346657931274", "avatar": "5d781a6da8b95c2be4e07ba5d8b925df"}, "mention_roles": [], "content": "", "channel_id": "451188550889766912", "mentions": [], "type": 0}, {"attachments": [], "tts": false, "embeds": [], "timestamp": "2018-05-30T01:34:45.239000+00:00", "mention_everyone": false, "id": "451196738292940830", "pinned": false, "edited_timestamp": null, "author": {"username": "Shortland", "discriminator": "3839", "id": "131231443694125056", "avatar": "0d7c8c76af32e4f9fa6e36600d681d90"}, "mention_roles": [], "content": "~player shortland", "channel_id": "451188550889766912", "mentions": [], "type": 0}, {"attachments": [], "tts": false, "embeds": [], "timestamp": "2018-05-30T01:34:33.822000+00:00", "mention_everyone": false, "webhook_id": "451196346657931274", "id": "451196690406572048", "pinned": false, "edited_timestamp": null, "author": {"username": "TaeJa", "discriminator": "0000", "bot": true, "id": "451196346657931274", "avatar": "5d781a6da8b95c2be4e07ba5d8b925df"}, "mention_roles": [], "content": "Exports Complete: \nText: http://138.197.50.244/DUMPS/ConFed_A_DUMP.txt\nExcel: http://138.197.50.244/DUMPS/ConFed_DUMP.xls", "channel_id": "451188550889766912", "mentions": [], "type": 0}, {"attachments": [], "tts": false, "embeds": [], "timestamp": "2018-05-30T01:34:32.429000+00:00", "mention_everyone": false, "webhook_id": "451196346657931274", "id": "451196684563644456", "pinned": false, "edited_timestamp": null, "author": {"username": "TaeJa", "discriminator": "0000", "bot": true, "id": "451196346657931274", "avatar": "5d781a6da8b95c2be4e07ba5d8b925df"}, "mention_roles": [], "content": "Converting and exporting...", "channel_id": "451188550889766912", "mentions": [], "type": 0}, {"attachments": [], "tts": false, "embeds": [], "timestamp": "2018-05-30T01:34:32.054000+00:00", "mention_everyone": false, "id": "451196682990780436", "pinned": false, "edited_timestamp": null, "author": {"username": "Shortland", "discriminator": "3839", "id": "131231443694125056", "avatar": "0d7c8c76af32e4f9fa6e36600d681d90"}, "mention_roles": [], "content": "~roster export ConFed", "channel_id": "451188550889766912", "mentions": [], "type": 0}, {"attachments": [], "tts": false, "embeds": [], "timestamp": "2018-05-30T01:34:25.838000+00:00", "mention_everyone": false, "webhook_id": "451196346657931274", "id": "451196656919117834", "pinned": false, "edited_timestamp": null, "author": {"username": "TaeJa", "discriminator": "0000", "bot": true, "id": "451196346657931274", "avatar": "5d781a6da8b95c2be4e07ba5d8b925df"}, "mention_roles": [], "content": "<:MASTER1:278725418679271425> [ConFed] KILLY#299 (mmr: 5115)\n<:MASTER1:278725418679271425> [ConFed] Bushido#693 (mmr: 4581)\n<:MASTER1:278725418679271425> [ConFed] Commando#677 (mmr: 4578)\n<:MASTER1:278725418679271425> [ConFed] Jasio#600 (mmr: 4505)\n<:DIAMOND1:278725418960551937> [ConFed] Knack#373 (mmr: 4369)\n<:DIAMOND1:278725418960551937> [ConFed] FishyFish#133 (mmr: 4353)\n<:DIAMOND1:278725418960551937> [ConFed] Remo#538 (mmr: 4033)\n<:DIAMOND1:278725418960551937> [ConFed] SwagHellaZ#175 (mmr: 3650)\n<:DIAMOND1:278725418960551937> [ConFed] WarTankPrime#300 (mmr: 3610)\n<:DIAMOND1:278725418960551937> [ConFed] MsbowElite#522 (mmr: 3598)\n<:PLATINUM1:278725419056758784> [ConFed] SeventhSign#191 (mmr: 3291)\n<:GOLD1:278725419073536012> [ConFed] Pinaxo#285 (mmr: 3122)\n<:GOLD1:278725419073536012> [ConFed] MemeBooty#863 (mmr: 2957)\n<:SILVER2:278725418813751297> [ConFed] Elssoo#917 (mmr: 2510)", "channel_id": "451188550889766912", "mentions": [], "type": 0}, {"attachments": [], "tts": false, "embeds": [], "timestamp": "2018-05-30T01:34:25.483000+00:00", "mention_everyone": false, "id": "451196655430008852", "pinned": false, "edited_timestamp": null, "author": {"username": "Shortland", "discriminator": "3839", "id": "131231443694125056", "avatar": "0d7c8c76af32e4f9fa6e36600d681d90"}, "mention_roles": [], "content": "~roster terran", "channel_id": "451188550889766912", "mentions": [], "type": 0}, {"attachments": [], "tts": false, "embeds": [], "timestamp": "2018-05-30T01:34:16.084000+00:00", "mention_everyone": false, "webhook_id": "451196346657931274", "id": "451196616008007691", "pinned": false, "edited_timestamp": null, "author": {"username": "TaeJa", "discriminator": "0000", "bot": true, "id": "451196346657931274", "avatar": "5d781a6da8b95c2be4e07ba5d8b925df"}, "mention_roles": [], "content": "Here are some race stats for the clan:\n<:TERRAN:278762425552207883> x 14  (28%)\n<:ZERG:278762452265467907> x 18  (36%)\n<:PROTOSS:278762398347689984> x 16  (32%)\n<:RANDOM:278762354001444864> x 2  (4%)\nTotal Ranked: 50", "channel_id": "451188550889766912", "mentions": [], "type": 0}, {"attachments": [], "tts": false, "embeds": [], "timestamp": "2018-05-30T01:34:15.732000+00:00", "mention_everyone": false, "id": "451196614531481611", "pinned": false, "edited_timestamp": null, "author": {"username": "Shortland", "discriminator": "3839", "id": "131231443694125056", "avatar": "0d7c8c76af32e4f9fa6e36600d681d90"}, "mention_roles": [], "content": "~roster count race", "channel_id": "451188550889766912", "mentions": [], "type": 0}, {"attachments": [], "tts": false, "embeds": [], "timestamp": "2018-05-30T01:34:12.041000+00:00", "mention_everyone": false, "webhook_id": "451196346657931274", "id": "451196599050436610", "pinned": false, "edited_timestamp": null, "author": {"username": "TaeJa", "discriminator": "0000", "bot": true, "id": "451196346657931274", "avatar": "5d781a6da8b95c2be4e07ba5d8b925df"}, "mention_roles": [], "content": "Here are some league stats for the clan:\n<:GRANDMASTER:278725419186782208> x 0  (0%)\n<:MASTER1:278725418679271425> x 11  (22%)\n<:DIAMOND1:278725418960551937> x 28  (56%)\n<:PLATINUM1:278725419056758784> x 6  (12%)\n<:GOLD1:278725419073536012> x 3  (6%)\n<:SILVER2:278725418813751297> x 2  (4%)\n<:BRONZE3:278725418641522688> x 0  (0%)\nTotal Ranked: 50", "channel_id": "451188550889766912", "mentions": [], "type": 0}, {"attachments": [], "tts": false, "embeds": [], "timestamp": "2018-05-30T01:34:11.699000+00:00", "mention_everyone": false, "id": "451196597615853569", "pinned": false, "edited_timestamp": null, "author": {"username": "Shortland", "discriminator": "3839", "id": "131231443694125056", "avatar": "0d7c8c76af32e4f9fa6e36600d681d90"}, "mention_roles": [], "content": "~roster count league", "channel_id": "451188550889766912", "mentions": [], "type": 0}, {"attachments": [], "tts": false, "embeds": [], "timestamp": "2018-05-30T01:34:02.129000+00:00", "mention_everyone": false, "webhook_id": "451196346657931274", "id": "451196557476495360", "pinned": false, "edited_timestamp": null, "author": {"username": "TaeJa", "discriminator": "0000", "bot": true, "id": "451196346657931274", "avatar": "5d781a6da8b95c2be4e07ba5d8b925df"}, "mention_roles": [], "content": "<:PLATINUM1:278725419056758784> [ConFed] derp#337 (mmr: 3206)\n<:PLATINUM1:278725419056758784> [ConFed] Terminus#836 (mmr: 3129)\n<:GOLD1:278725419073536012> [ConFed] Pinaxo#285 (mmr: 3122)\n<:GOLD1:278725419073536012> [ConFed] Minarius#237 (mmr: 2987)\n<:GOLD1:278725419073536012> [ConFed] MemeBooty#863 (mmr: 2957)\n<:SILVER2:278725418813751297> [ConFed] Nico#1660 (mmr: 2588)\n<:SILVER2:278725418813751297> [ConFed] Elssoo#917 (mmr: 2510)", "channel_id": "451188550889766912", "mentions": [], "type": 0}, {"attachments": [], "tts": false, "embeds": [], "timestamp": "2018-05-30T01:34:00.805000+00:00", "mention_everyone": false, "webhook_id": "451196346657931274", "id": "451196551923236876", "pinned": false, "edited_timestamp": null, "author": {"username": "TaeJa", "discriminator": "0000", "bot": true, "id": "451196346657931274", "avatar": "5d781a6da8b95c2be4e07ba5d8b925df"}, "mention_roles": [], "content": "<:DIAMOND1:278725418960551937> [ConFed] Kira#2547 (mmr: 3971)\n<:DIAMOND1:278725418960551937> [ConFed] Leslie#416 (mmr: 3956)\n<:DIAMOND1:278725418960551937> [ConFed] E\u00e4rnur#241 (mmr: 3954)\n<:DIAMOND1:278725418960551937> [ConFed] Vanarian#849 (mmr: 3942)\n<:DIAMOND1:278725418960551937> [ConFed] pheo#363 (mmr: 3901)\n<:DIAMOND1:278725418960551937> [ConFed] SnowNinja#190 (mmr: 3825)\n<:DIAMOND1:278725418960551937> [ConFed] DrDetroit#973 (mmr: 3803)\n<:DIAMOND1:278725418960551937> [ConFed] AndyRob#759 (mmr: 3800)\n<:DIAMOND1:278725418960551937> [ConFed] drgreenthumb#263 (mmr: 3780)\n<:DIAMOND1:278725418960551937> [ConFed] DarkSwarm#713 (mmr: 3761)\n<:DIAMOND1:278725418960551937> [ConFed] TheBigTG#765 (mmr: 3731)\n<:DIAMOND1:278725418960551937> [ConFed] Asamov#153 (mmr: 3713)\n<:DIAMOND1:278725418960551937> [ConFed] SwagHellaZ#175 (mmr: 3650)\n<:DIAMOND1:278725418960551937> [ConFed] Smiles#489 (mmr: 3625)\n<:DIAMOND1:278725418960551937> [ConFed] WarTankPrime#300 (mmr: 3610)\n<:DIAMOND1:278725418960551937> [ConFed] MsbowElite#522 (mmr: 3598)\n<:DIAMOND1:278725418960551937> [ConFed] RogueSaint#351 (mmr: 3596)\n<:PLATINUM1:278725419056758784> [ConFed] Waffles#373 (mmr: 3444)\n<:PLATINUM1:278725419056758784> [ConFed] SeventhSign#191 (mmr: 3291)\n<:PLATINUM1:278725419056758784> [ConFed] AgentAAA#770 (mmr: 3238)\n<:PLATINUM1:278725419056758784> [ConFed] Nanoha#122 (mmr: 3211)", "channel_id": "451188550889766912", "mentions": [], "type": 0}, {"attachments": [], "tts": false, "embeds": [], "timestamp": "2018-05-30T01:33:59.632000+00:00", "mention_everyone": false, "webhook_id": "451196346657931274", "id": "451196547003318272", "pinned": false, "edited_timestamp": null, "author": {"username": "TaeJa", "discriminator": "0000", "bot": true, "id": "451196346657931274", "avatar": "5d781a6da8b95c2be4e07ba5d8b925df"}, "mention_roles": [], "content": "<:MASTER1:278725418679271425> [ConFed] Gallant#277 (mmr: 5309)\n<:MASTER1:278725418679271425> [ConFed] CenturionMK#166 (mmr: 5306)\n<:MASTER1:278725418679271425> [ConFed] DWK#162 (mmr: 5197)\n<:MASTER1:278725418679271425> [ConFed] KILLY#299 (mmr: 5115)\n<:MASTER1:278725418679271425> [ConFed] Davis#223 (mmr: 4819)\n<:MASTER1:278725418679271425> [ConFed] Centurion#234 (mmr: 4778)\n<:MASTER1:278725418679271425> [ConFed] ShifuNess#331 (mmr: 4723)\n<:MASTER1:278725418679271425> [ConFed] Bushido#693 (mmr: 4581)\n<:MASTER1:278725418679271425> [ConFed] Commando#677 (mmr: 4578)\n<:MASTER1:278725418679271425> [ConFed] Fumblevore#620 (mmr: 4562)\n<:MASTER1:278725418679271425> [ConFed] Jasio#600 (mmr: 4505)\n<:DIAMOND1:278725418960551937> [ConFed] Broketail#174 (mmr: 4553)\n<:DIAMOND1:278725418960551937> [ConFed] Kira#1801 (mmr: 4497)\n<:DIAMOND1:278725418960551937> [ConFed] Moh#172 (mmr: 4442)\n<:DIAMOND1:278725418960551937> [ConFed] Knack#373 (mmr: 4369)\n<:DIAMOND1:278725418960551937> [ConFed] FishyFish#133 (mmr: 4353)\n<:DIAMOND1:278725418960551937> [ConFed] Corazon#238 (mmr: 4240)\n<:DIAMOND1:278725418960551937> [ConFed] Overkill#808 (mmr: 4121)\n<:DIAMOND1:278725418960551937> [ConFed] Markuverse#921 (mmr: 4043)\n<:DIAMOND1:278725418960551937> [ConFed] Remo#538 (mmr: 4033)\n<:DIAMOND1:278725418960551937> [ConFed] TheTravii#644 (mmr: 4025)\n<:DIAMOND1:278725418960551937> [ConFed] MrBrightside#372 (mmr: 4019)", "channel_id": "451188550889766912", "mentions": [], "type": 0}, {"attachments": [], "tts": false, "embeds": [], "timestamp": "2018-05-30T01:33:59.356000+00:00", "mention_everyone": false, "id": "451196545845428234", "pinned": false, "edited_timestamp": null, "author": {"username": "Shortland", "discriminator": "3839", "id": "131231443694125056", "avatar": "0d7c8c76af32e4f9fa6e36600d681d90"}, "mention_roles": [], "content": "~roster", "channel_id": "451188550889766912", "mentions": [], "type": 0}]
+Set Channel ID
+Doing recusive (451196545845428234)
+[{"attachments": [], "tts": false, "embeds": [], "timestamp": "2018-05-30T01:33:40.972000+00:00", "mention_everyone": false, "id": "451196468737474560", "pinned": false, "edited_timestamp": null, "author": {"username": "TaeJa", "discriminator": "3766", "bot": true, "id": "314503849459056652", "avatar": "c38ca75c61f5f91fda5b86f258427b29"}, "mention_roles": [], "content": "Full Commands:\n\n~roster\n~roster count (league,race)\n~roster (terran,zerg,protoss,random)\n~roster (grandmaster,master,diamond...)\n~roster export confed\n\n~player Shortland\n~player Shortland (terran, protoss zerg, random)\n~player Shortland (na,kr,eu)\n~player Shortland#95200\n~player Shortland#95200 (terran, protoss zerg, random)\n\n~bnet Shortland\n\n~clan confed\n\n~stream all\n~stream live\n~stream add shortl4ndo\n~stream remove shortl4ndo\n~stream alloff\n\n~bounds\n~bounds (na,eu,kr)\n\n~ctl\n\n~ping\n\n~shrug\n\n~kittens\n~kittens all\n~kittens pic\n\n~typing\n\n~h\n~hm\n~hangman\n\n===\nAdmin commands\n===\n\n~clear Channel_ID_Here\n\n~sql CMD_HERE\n\n===\nTo Do List Bot\n===\n\n~t\n~t new\n~t remove #", "channel_id": "451188550889766912", "mentions": [], "type": 0}, {"attachments": [], "tts": false, "embeds": [], "timestamp": "2018-05-30T01:33:39.606000+00:00", "mention_everyone": false, "id": "451196463008055301", "pinned": false, "edited_timestamp": null, "author": {"username": "Shortland", "discriminator": "3839", "id": "131231443694125056", "avatar": "0d7c8c76af32e4f9fa6e36600d681d90"}, "mention_roles": [], "content": "~help", "channel_id": "451188550889766912", "mentions": [], "type": 0}]
+Doing recusive (451196463008055301)
+[]
+No more messages: 451196463008055301
+[]
+static/wpXIk1YhempEtZiJ.log.txt
+pins are static/KhQN0fSheCM0b01M.log.txt
+
+I want to post...
+
+THIS IS WHAT IM SENDING: 
+$VAR1 = '';
+
+451197728790413323 deleted.
+I want to post...
+
+THIS IS WHAT IM SENDING: 
+$VAR1 = '';
+
+451197623026843648 deleted.
+I want to post...
+
+THIS IS WHAT IM SENDING: 
+$VAR1 = '';
+
+451197436162211871 deleted.
+I want to post...
+
+THIS IS WHAT IM SENDING: 
+$VAR1 = '';
+
+451197428968980510 deleted.
+I want to post...
+
+THIS IS WHAT IM SENDING: 
+$VAR1 = '';
+
+451197395582058497 deleted.
+I want to post...
+
+THIS IS WHAT IM SENDING: 
+$VAR1 = '';
+
+451197391165456404 deleted.
+I want to post...
+
+THIS IS WHAT IM SENDING: 
+$VAR1 = '';
+
+451197366310010882 deleted.
+I want to post...
+
+THIS IS WHAT IM SENDING: 
+$VAR1 = '';
+
+451197324799246346 deleted.
+I want to post...
+
+THIS IS WHAT IM SENDING: 
+$VAR1 = '';
+
+451197320051294219 deleted.
+I want to post...
+
+THIS IS WHAT IM SENDING: 
+$VAR1 = '';
+
+451197309292904459 deleted.
+I want to post...
+
+THIS IS WHAT IM SENDING: 
+$VAR1 = '';
+
+451197304217796608 deleted.
+I want to post...
+
+THIS IS WHAT IM SENDING: 
+$VAR1 = '';
+
+451197233485053963 deleted.
+I want to post...
+
+THIS IS WHAT IM SENDING: 
+$VAR1 = '';
+
+451197228887834634 deleted.
+I want to post...
+
+THIS IS WHAT IM SENDING: 
+$VAR1 = '{
+  "global": false, 
+  "message": "You are being rate limited.", 
+  "retry_after": 13
+}
+';
+
+451197183430098974 deleted.
+I want to post...
+
+THIS IS WHAT IM SENDING: 
+$VAR1 = '';
+
+451197183052611587 deleted.
+I want to post...
+
+THIS IS WHAT IM SENDING: 
+$VAR1 = '';
+
+451197174575923200 deleted.
+I want to post...
+
+THIS IS WHAT IM SENDING: 
+$VAR1 = '';
+
+451197106649038851 deleted.
+I want to post...
+
+THIS IS WHAT IM SENDING: 
+$VAR1 = '{
+  "global": false, 
+  "message": "You are being rate limited.", 
+  "retry_after": 288
+}
+';
+
+451197101901217802 deleted.
+I want to post...
+
+THIS IS WHAT IM SENDING: 
+$VAR1 = '{
+  "global": false, 
+  "message": "You are being rate limited.", 
+  "retry_after": 57
+}
+';
+
+451197030623084554 deleted.
+I want to post...
+
+THIS IS WHAT IM SENDING: 
+$VAR1 = '';
+
+451197029394284571 deleted.
+I want to post...
+
+THIS IS WHAT IM SENDING: 
+$VAR1 = '';
+
+451197028366811156 deleted.
+I want to post...
+
+THIS IS WHAT IM SENDING: 
+$VAR1 = '';
+
+451197027112714282 deleted.
+I want to post...
+
+THIS IS WHAT IM SENDING: 
+$VAR1 = '{
+  "global": false, 
+  "message": "You are being rate limited.", 
+  "retry_after": 11
+}
+';
+
+451197026219327489 deleted.
+I want to post...
+
+THIS IS WHAT IM SENDING: 
+$VAR1 = '';
+
+451197024772292620 deleted.
+I want to post...
+
+THIS IS WHAT IM SENDING: 
+$VAR1 = '';
+
+451196993939963924 deleted.
+I want to post...
+
+THIS IS WHAT IM SENDING: 
+$VAR1 = '';
+
+451196988717793282 deleted.
+I want to post...
+
+THIS IS WHAT IM SENDING: 
+$VAR1 = '';
+
+451196962163654662 deleted.
+I want to post...
+
+THIS IS WHAT IM SENDING: 
+$VAR1 = '';
+
+451196960691585025 deleted.
+I want to post...
+
+THIS IS WHAT IM SENDING: 
+$VAR1 = '{
+  "global": false, 
+  "message": "You are being rate limited.", 
+  "retry_after": 236
+}
+';
+
+451196959823233025 deleted.
+I want to post...
+
+THIS IS WHAT IM SENDING: 
+$VAR1 = '';
+
+451196958774919168 deleted.
+I want to post...
+
+THIS IS WHAT IM SENDING: 
+$VAR1 = '';
+
+451196957403381761 deleted.
+I want to post...
+
+THIS IS WHAT IM SENDING: 
+$VAR1 = '';
+
+451196955666939925 deleted.
+I want to post...
+
+THIS IS WHAT IM SENDING: 
+$VAR1 = '{
+  "global": false, 
+  "message": "You are being rate limited.", 
+  "retry_after": 336
+}
+';
+
+451196865627815936 deleted.
+I want to post...
+
+THIS IS WHAT IM SENDING: 
+$VAR1 = '{
+  "global": false, 
+  "message": "You are being rate limited.", 
+  "retry_after": 81
+}
+';
+
+451196863551373324 deleted.
+I want to post...
+
+THIS IS WHAT IM SENDING: 
+$VAR1 = '';
+
+451196836972068905 deleted.
+I want to post...
+
+THIS IS WHAT IM SENDING: 
+$VAR1 = '';
+
+451196739979051008 deleted.
+I want to post...
+
+THIS IS WHAT IM SENDING: 
+$VAR1 = '';
+
+451196738292940830 deleted.
+I want to post...
+
+THIS IS WHAT IM SENDING: 
+$VAR1 = '{
+  "global": false, 
+  "message": "You are being rate limited.", 
+  "retry_after": 220
+}
+';
+
+451196690406572048 deleted.
+I want to post...
+
+THIS IS WHAT IM SENDING: 
+$VAR1 = '';
+
+451196684563644456 deleted.
+I want to post...
+
+THIS IS WHAT IM SENDING: 
+$VAR1 = '';
+
+451196682990780436 deleted.
+I want to post...
+
+THIS IS WHAT IM SENDING: 
+$VAR1 = '';
+
+451196656919117834 deleted.
+I want to post...
+
+THIS IS WHAT IM SENDING: 
+$VAR1 = '';
+
+451196655430008852 deleted.
+I want to post...
+
+THIS IS WHAT IM SENDING: 
+$VAR1 = '{
+  "global": false, 
+  "message": "You are being rate limited.", 
+  "retry_after": 303
+}
+';
+
+451196616008007691 deleted.
+I want to post...
+
+THIS IS WHAT IM SENDING: 
+$VAR1 = '{
+  "global": false, 
+  "message": "You are being rate limited.", 
+  "retry_after": 116
+}
+';
+
+451196614531481611 deleted.
+I want to post...
+
+THIS IS WHAT IM SENDING: 
+$VAR1 = '';
+
+451196599050436610 deleted.
+I want to post...
+
+THIS IS WHAT IM SENDING: 
+$VAR1 = '';
+
+451196597615853569 deleted.
+I want to post...
+
+THIS IS WHAT IM SENDING: 
+$VAR1 = '';
+
+451196557476495360 deleted.
+I want to post...
+
+THIS IS WHAT IM SENDING: 
+$VAR1 = '{
+  "global": false, 
+  "message": "You are being rate limited.", 
+  "retry_after": 217
+}
+';
+
+451196551923236876 deleted.
+I want to post...
+
+THIS IS WHAT IM SENDING: 
+$VAR1 = '';
+
+451196547003318272 deleted.
+I want to post...
+
+THIS IS WHAT IM SENDING: 
+$VAR1 = '';
+
+451196545845428234 deleted.
+I want to post...
+
+THIS IS WHAT IM SENDING: 
+$VAR1 = '';
+
+451196468737474560 deleted.
+I want to post...
+
+THIS IS WHAT IM SENDING: 
+$VAR1 = '{
+  "global": false, 
+  "message": "You are being rate limited.", 
+  "retry_after": 258
+}
+';
+
+451196463008055301 deleted.
+[{"attachments": [], "tts": false, "embeds": [], "timestamp": "2018-05-30T01:39:27.243000+00:00", "mention_everyone": false, "id": "451197921103183873", "pinned": false, "edited_timestamp": null, "author": {"username": "Shortland", "discriminator": "3839", "id": "131231443694125056", "avatar": "0d7c8c76af32e4f9fa6e36600d681d90"}, "mention_roles": [], "content": "~clear 451188550889766912", "channel_id": "451188550889766912", "mentions": [], "type": 0}, {"attachments": [], "tts": false, "embeds": [], "timestamp": "2018-05-30T01:36:31.368000+00:00", "mention_everyone": false, "id": "451197183430098974", "pinned": false, "edited_timestamp": null, "author": {"username": "TaeJa", "discriminator": "3766", "bot": true, "id": "314503849459056652", "avatar": "c38ca75c61f5f91fda5b86f258427b29"}, "mention_roles": [], "content": "server: us", "channel_id": "451188550889766912", "mentions": [], "type": 0}, {"attachments": [], "tts": false, "embeds": [], "timestamp": "2018-05-30T01:36:11.930000+00:00", "mention_everyone": false, "id": "451197101901217802", "pinned": false, "edited_timestamp": null, "author": {"username": "Shortland", "discriminator": "3839", "id": "131231443694125056", "avatar": "0d7c8c76af32e4f9fa6e36600d681d90"}, "mention_roles": [], "content": "~stream all", "channel_id": "451188550889766912", "mentions": [], "type": 0}, {"attachments": [], "tts": false, "embeds": [], "timestamp": "2018-05-30T01:35:54.936000+00:00", "mention_everyone": false, "webhook_id": "451196346657931274", "id": "451197030623084554", "pinned": false, "edited_timestamp": null, "author": {"username": "TaeJa", "discriminator": "0000", "bot": true, "id": "451196346657931274", "avatar": "5d781a6da8b95c2be4e07ba5d8b925df"}, "mention_roles": [], "content": "<:PROTOSS:278762398347689984><:PLATINUM1:278725419056758784>[3] Itachi#54400 <:NA:297912161064452096> (mmr:3176)\n<:PROTOSS:278762398347689984><:GOLD1:278725419073536012>[2] Werner#42700 <:NA:297912161064452096> (mmr:3019)\n<:ZERG:278762452265467907><:GOLD1:278725419073536012>[3] KadSkirata#63300 <:NA:297912161064452096> (mmr:2915)\n<:PROTOSS:278762398347689984><:GOLD1:278725419073536012>[3] alphajets#76400 <:NA:297912161064452096> (mmr:2844)", "channel_id": "451188550889766912", "mentions": [], "type": 0}, {"attachments": [], "tts": false, "embeds": [], "timestamp": "2018-05-30T01:35:53.886000+00:00", "mention_everyone": false, "webhook_id": "451196346657931274", "id": "451197026219327489", "pinned": false, "edited_timestamp": null, "author": {"username": "TaeJa", "discriminator": "0000", "bot": true, "id": "451196346657931274", "avatar": "5d781a6da8b95c2be4e07ba5d8b925df"}, "mention_roles": [], "content": "<:TERRAN:278762425552207883><:MASTER1:278725418679271425>[1] SkyPain#19900 <:NA:297912161064452096> (mmr:5790)\n<:TERRAN:278762425552207883><:GRANDMASTER:278725419186782208>[1] PracticeX#81600 <:NA:297912161064452096> (mmr:5597)\n<:TERRAN:278762425552207883><:GRANDMASTER:278725419186782208>[1] Skyler#68800 <:NA:297912161064452096> (mmr:5476)\n<:ZERG:278762452265467907><:MASTER1:278725418679271425>[1] Proxy#61700 <:NA:297912161064452096> (mmr:5204)\n<:ZERG:278762452265467907><:MASTER1:278725418679271425>[1] Jacobis#27500 <:NA:297912161064452096> (mmr:5035)\n<:TERRAN:278762425552207883><:MASTER1:278725418679271425>[2] Typic#55400 <:NA:297912161064452096> (mmr:4948)\n<:RANDOM:278762354001444864><:MASTER1:278725418679271425>[2] Jacobis#27500 <:NA:297912161064452096> (mmr:4861)\n<:TERRAN:278762425552207883><:MASTER1:278725418679271425>[2] ArmyMan#54600 <:NA:297912161064452096> (mmr:4832)\n<:PROTOSS:278762398347689984><:MASTER1:278725418679271425>[1] SuperMario#29200 <:NA:297912161064452096> (mmr:4807)\n<:ZERG:278762452265467907><:MASTER1:278725418679271425>[2] ArmyMan#54600 <:NA:297912161064452096> (mmr:4803)\n<:TERRAN:278762425552207883><:MASTER1:278725418679271425>[3] Prosper#16400 <:NA:297912161064452096> (mmr:4714)\n<:ZERG:278762452265467907><:MASTER1:278725418679271425>[2] Skyler#68800 <:NA:297912161064452096> (mmr:4707)\n<:PROTOSS:278762398347689984><:MASTER1:278725418679271425>[2] Skyler#68800 <:NA:297912161064452096> (mmr:4707)\n<:TERRAN:278762425552207883><:MASTER1:278725418679271425>[3] Wugi#28500 <:NA:297912161064452096> (mmr:4700)\n<:PROTOSS:278762398347689984><:MASTER1:278725418679271425>[2] Freak#84900 <:NA:297912161064452096> (mmr:4644)\n<:TERRAN:278762425552207883><:MASTER1:278725418679271425>[3] NoticeSenpai#15400 <:NA:297912161064452096> (mmr:4643)", "channel_id": "451188550889766912", "mentions": [], "type": 0}, {"attachments": [], "tts": false, "embeds": [], "timestamp": "2018-05-30T01:35:38.056000+00:00", "mention_everyone": false, "webhook_id": "451196346657931274", "id": "451196959823233025", "pinned": false, "edited_timestamp": null, "author": {"username": "TaeJa", "discriminator": "0000", "bot": true, "id": "451196346657931274", "avatar": "5d781a6da8b95c2be4e07ba5d8b925df"}, "mention_roles": [], "content": "<:RANDOM:278762354001444864><:DIAMOND1:278725418960551937>[3] MrBrightside#37200 <:NA:297912161064452096> (mmr:3844)\n<:ZERG:278762452265467907><:DIAMOND1:278725418960551937>[2] SnowNinja#19000 <:NA:297912161064452096> (mmr:3825)\n<:TERRAN:278762425552207883><:DIAMOND1:278725418960551937>[3] MrBrightside#37200 <:NA:297912161064452096> (mmr:3812)\n<:ZERG:278762452265467907><:DIAMOND1:278725418960551937>[3] DrDetroit#97300 <:NA:297912161064452096> (mmr:3803)\n<:ZERG:278762452265467907><:DIAMOND1:278725418960551937>[3] AndyRob#75900 <:NA:297912161064452096> (mmr:3800)\n<:PROTOSS:278762398347689984><:DIAMOND1:278725418960551937>[3] MrBrightside#37200 <:NA:297912161064452096> (mmr:3786)\n<:PROTOSS:278762398347689984><:DIAMOND1:278725418960551937>[3] drgreenthumb#26300 <:NA:297912161064452096> (mmr:3780)\n<:ZERG:278762452265467907><:DIAMOND1:278725418960551937>[3] DarkSwarm#71300 <:NA:297912161064452096> (mmr:3761)\n<:ZERG:278762452265467907><:DIAMOND1:278725418960551937>[3] TheBigTG#76500 <:NA:297912161064452096> (mmr:3731)\n<:ZERG:278762452265467907><:DIAMOND1:278725418960551937>[3] Asamov#15300 <:NA:297912161064452096> (mmr:3713)\n<:TERRAN:278762425552207883><:DIAMOND1:278725418960551937>[3] SwagHellaZ#17500 <:NA:297912161064452096> (mmr:3650)\n<:ZERG:278762452265467907><:DIAMOND1:278725418960551937>[3] Smiles#48900 <:NA:297912161064452096> (mmr:3625)\n<:TERRAN:278762425552207883><:DIAMOND1:278725418960551937>[3] WarTankPrime#30000 <:NA:297912161064452096> (mmr:3610)\n<:TERRAN:278762425552207883><:DIAMOND1:278725418960551937>[3] MsbowElite#52200 <:NA:297912161064452096> (mmr:3598)\n<:PROTOSS:278762398347689984><:DIAMOND1:278725418960551937>[3] RogueSaint#35100 <:NA:297912161064452096> (mmr:3596)", "channel_id": "451188550889766912", "mentions": [], "type": 0}, {"attachments": [], "tts": false, "embeds": [{"footer": {"text": "Last Server Update: Wed May 30 01:01:18 2018"}, "color": 4343284, "fields": [{"inline": false, "name": "Profile:", "value": "*http://us.battle.net/sc2/en/profile/4205779/1/Kingsbane/*"}, {"inline": false, "name": "RankedFTW:", "value": "*http://www.rankedftw.com/search/?name=http://us.battle.net/sc2/en/profile/4205779/1/Kingsbane/*"}, {"inline": true, "name": "Tier:", "value": "*1*"}, {"inline": true, "name": "MMR:", "value": "*5197*"}, {"inline": true, "name": "Wins:", "value": "*8*"}, {"inline": true, "name": "Losses:", "value": "*1*"}, {"inline": true, "name": "Longest Win Streak:", "value": "*7*"}, {"inline": true, "name": "Current Win Streak:", "value": "*7*"}, {"inline": true, "name": "Last 1v1:", "value": "*Thu May 24 00:34:20 2018*"}, {"inline": true, "name": "BattleNet Tag:", "value": "*WalkingMeme#1274*"}], "author": {"url": "http://us.battle.net/sc2/en/profile/4205779/1/Kingsbane/", "icon_url": "http://138.197.50.244/images/ZERG.png", "proxy_icon_url": "https://images-ext-1.discordapp.net/external/aES_y15vVwetsQ04VyYjJTJYRct9NQusg6K0H6TY3DE/http/138.197.50.244/images/ZERG.png", "name": "<BlGDIK> WalkingMeme#1274"}, "type": "rich", "thumbnail": {"url": "http://138.197.50.244/images/MASTER.png", "width": 136, "proxy_url": "https://images-ext-1.discordapp.net/external/Zm02M1oczOCBJdONOP8YiP7FjCBUlXrzmw7rTv4J8Z0/http/138.197.50.244/images/MASTER.png", "height": 136}}], "timestamp": "2018-05-30T01:35:15.598000+00:00", "mention_everyone": false, "webhook_id": "451196346657931274", "id": "451196865627815936", "pinned": false, "edited_timestamp": null, "author": {"username": "TaeJa", "discriminator": "0000", "bot": true, "id": "451196346657931274", "avatar": "5d781a6da8b95c2be4e07ba5d8b925df"}, "mention_roles": [], "content": "", "channel_id": "451188550889766912", "mentions": [], "type": 0}, {"attachments": [], "tts": false, "embeds": [], "timestamp": "2018-05-30T01:35:15.103000+00:00", "mention_everyone": false, "id": "451196863551373324", "pinned": false, "edited_timestamp": null, "author": {"username": "Shortland", "discriminator": "3839", "id": "131231443694125056", "avatar": "0d7c8c76af32e4f9fa6e36600d681d90"}, "mention_roles": [], "content": "~bnet WalkingMeme#1274", "channel_id": "451188550889766912", "mentions": [], "type": 0}, {"attachments": [], "tts": false, "embeds": [], "timestamp": "2018-05-30T01:34:33.822000+00:00", "mention_everyone": false, "webhook_id": "451196346657931274", "id": "451196690406572048", "pinned": false, "edited_timestamp": null, "author": {"username": "TaeJa", "discriminator": "0000", "bot": true, "id": "451196346657931274", "avatar": "5d781a6da8b95c2be4e07ba5d8b925df"}, "mention_roles": [], "content": "Exports Complete: \nText: http://138.197.50.244/DUMPS/ConFed_A_DUMP.txt\nExcel: http://138.197.50.244/DUMPS/ConFed_DUMP.xls", "channel_id": "451188550889766912", "mentions": [], "type": 0}, {"attachments": [], "tts": false, "embeds": [], "timestamp": "2018-05-30T01:34:16.084000+00:00", "mention_everyone": false, "webhook_id": "451196346657931274", "id": "451196616008007691", "pinned": false, "edited_timestamp": null, "author": {"username": "TaeJa", "discriminator": "0000", "bot": true, "id": "451196346657931274", "avatar": "5d781a6da8b95c2be4e07ba5d8b925df"}, "mention_roles": [], "content": "Here are some race stats for the clan:\n<:TERRAN:278762425552207883> x 14  (28%)\n<:ZERG:278762452265467907> x 18  (36%)\n<:PROTOSS:278762398347689984> x 16  (32%)\n<:RANDOM:278762354001444864> x 2  (4%)\nTotal Ranked: 50", "channel_id": "451188550889766912", "mentions": [], "type": 0}, {"attachments": [], "tts": false, "embeds": [], "timestamp": "2018-05-30T01:34:15.732000+00:00", "mention_everyone": false, "id": "451196614531481611", "pinned": false, "edited_timestamp": null, "author": {"username": "Shortland", "discriminator": "3839", "id": "131231443694125056", "avatar": "0d7c8c76af32e4f9fa6e36600d681d90"}, "mention_roles": [], "content": "~roster count race", "channel_id": "451188550889766912", "mentions": [], "type": 0}, {"attachments": [], "tts": false, "embeds": [], "timestamp": "2018-05-30T01:34:00.805000+00:00", "mention_everyone": false, "webhook_id": "451196346657931274", "id": "451196551923236876", "pinned": false, "edited_timestamp": null, "author": {"username": "TaeJa", "discriminator": "0000", "bot": true, "id": "451196346657931274", "avatar": "5d781a6da8b95c2be4e07ba5d8b925df"}, "mention_roles": [], "content": "<:DIAMOND1:278725418960551937> [ConFed] Kira#2547 (mmr: 3971)\n<:DIAMOND1:278725418960551937> [ConFed] Leslie#416 (mmr: 3956)\n<:DIAMOND1:278725418960551937> [ConFed] E\u00e4rnur#241 (mmr: 3954)\n<:DIAMOND1:278725418960551937> [ConFed] Vanarian#849 (mmr: 3942)\n<:DIAMOND1:278725418960551937> [ConFed] pheo#363 (mmr: 3901)\n<:DIAMOND1:278725418960551937> [ConFed] SnowNinja#190 (mmr: 3825)\n<:DIAMOND1:278725418960551937> [ConFed] DrDetroit#973 (mmr: 3803)\n<:DIAMOND1:278725418960551937> [ConFed] AndyRob#759 (mmr: 3800)\n<:DIAMOND1:278725418960551937> [ConFed] drgreenthumb#263 (mmr: 3780)\n<:DIAMOND1:278725418960551937> [ConFed] DarkSwarm#713 (mmr: 3761)\n<:DIAMOND1:278725418960551937> [ConFed] TheBigTG#765 (mmr: 3731)\n<:DIAMOND1:278725418960551937> [ConFed] Asamov#153 (mmr: 3713)\n<:DIAMOND1:278725418960551937> [ConFed] SwagHellaZ#175 (mmr: 3650)\n<:DIAMOND1:278725418960551937> [ConFed] Smiles#489 (mmr: 3625)\n<:DIAMOND1:278725418960551937> [ConFed] WarTankPrime#300 (mmr: 3610)\n<:DIAMOND1:278725418960551937> [ConFed] MsbowElite#522 (mmr: 3598)\n<:DIAMOND1:278725418960551937> [ConFed] RogueSaint#351 (mmr: 3596)\n<:PLATINUM1:278725419056758784> [ConFed] Waffles#373 (mmr: 3444)\n<:PLATINUM1:278725419056758784> [ConFed] SeventhSign#191 (mmr: 3291)\n<:PLATINUM1:278725419056758784> [ConFed] AgentAAA#770 (mmr: 3238)\n<:PLATINUM1:278725419056758784> [ConFed] Nanoha#122 (mmr: 3211)", "channel_id": "451188550889766912", "mentions": [], "type": 0}, {"attachments": [], "tts": false, "embeds": [], "timestamp": "2018-05-30T01:33:39.606000+00:00", "mention_everyone": false, "id": "451196463008055301", "pinned": false, "edited_timestamp": null, "author": {"username": "Shortland", "discriminator": "3839", "id": "131231443694125056", "avatar": "0d7c8c76af32e4f9fa6e36600d681d90"}, "mention_roles": [], "content": "~help", "channel_id": "451188550889766912", "mentions": [], "type": 0}]
+Set Channel ID
+Doing recusive (451196463008055301)
+[]
+No more messages: 451196463008055301
+[]
+static/5gBkiZLDF9c6FUTu.log.txt
+pins are static/Gz7wzwlTCDzf4MJQ.log.txt
+
+I want to post...
+
+THIS IS WHAT IM SENDING: 
+$VAR1 = '';
+
+451197921103183873 deleted.
+I want to post...
+
+THIS IS WHAT IM SENDING: 
+$VAR1 = '';
+
+451197183430098974 deleted.
+I want to post...
+
+THIS IS WHAT IM SENDING: 
+$VAR1 = '';
+
+451197101901217802 deleted.
+I want to post...
+
+THIS IS WHAT IM SENDING: 
+$VAR1 = '';
+
+451197030623084554 deleted.
+I want to post...
+
+THIS IS WHAT IM SENDING: 
+$VAR1 = '{
+  "global": false, 
+  "message": "You are being rate limited.", 
+  "retry_after": 216
+}
+';
+
+451197026219327489 deleted.
+I want to post...
+
+THIS IS WHAT IM SENDING: 
+$VAR1 = '';
+
+451196959823233025 deleted.
+I want to post...
+
+THIS IS WHAT IM SENDING: 
+$VAR1 = '';
+
+451196865627815936 deleted.
+I want to post...
+
+THIS IS WHAT IM SENDING: 
+$VAR1 = '';
+
+451196863551373324 deleted.
+I want to post...
+
+THIS IS WHAT IM SENDING: 
+$VAR1 = '{
+  "global": false, 
+  "message": "You are being rate limited.", 
+  "retry_after": 282
+}
+';
+
+451196690406572048 deleted.
+I want to post...
+
+THIS IS WHAT IM SENDING: 
+$VAR1 = '{
+  "global": false, 
+  "message": "You are being rate limited.", 
+  "retry_after": 60
+}
+';
+
+451196616008007691 deleted.
+I want to post...
+
+THIS IS WHAT IM SENDING: 
+$VAR1 = '';
+
+451196614531481611 deleted.
+I want to post...
+
+THIS IS WHAT IM SENDING: 
+$VAR1 = '';
+
+451196551923236876 deleted.
+I want to post...
+
+THIS IS WHAT IM SENDING: 
+$VAR1 = '';
+
+451196463008055301 deleted.
+[{"attachments": [], "tts": false, "embeds": [], "timestamp": "2018-05-30T01:39:33.726000+00:00", "mention_everyone": false, "id": "451197948295118859", "pinned": false, "edited_timestamp": null, "author": {"username": "Shortland", "discriminator": "3839", "id": "131231443694125056", "avatar": "0d7c8c76af32e4f9fa6e36600d681d90"}, "mention_roles": [], "content": "~clear 451188550889766912", "channel_id": "451188550889766912", "mentions": [], "type": 0}, {"attachments": [], "tts": false, "embeds": [], "timestamp": "2018-05-30T01:35:53.886000+00:00", "mention_everyone": false, "webhook_id": "451196346657931274", "id": "451197026219327489", "pinned": false, "edited_timestamp": null, "author": {"username": "TaeJa", "discriminator": "0000", "bot": true, "id": "451196346657931274", "avatar": "5d781a6da8b95c2be4e07ba5d8b925df"}, "mention_roles": [], "content": "<:TERRAN:278762425552207883><:MASTER1:278725418679271425>[1] SkyPain#19900 <:NA:297912161064452096> (mmr:5790)\n<:TERRAN:278762425552207883><:GRANDMASTER:278725419186782208>[1] PracticeX#81600 <:NA:297912161064452096> (mmr:5597)\n<:TERRAN:278762425552207883><:GRANDMASTER:278725419186782208>[1] Skyler#68800 <:NA:297912161064452096> (mmr:5476)\n<:ZERG:278762452265467907><:MASTER1:278725418679271425>[1] Proxy#61700 <:NA:297912161064452096> (mmr:5204)\n<:ZERG:278762452265467907><:MASTER1:278725418679271425>[1] Jacobis#27500 <:NA:297912161064452096> (mmr:5035)\n<:TERRAN:278762425552207883><:MASTER1:278725418679271425>[2] Typic#55400 <:NA:297912161064452096> (mmr:4948)\n<:RANDOM:278762354001444864><:MASTER1:278725418679271425>[2] Jacobis#27500 <:NA:297912161064452096> (mmr:4861)\n<:TERRAN:278762425552207883><:MASTER1:278725418679271425>[2] ArmyMan#54600 <:NA:297912161064452096> (mmr:4832)\n<:PROTOSS:278762398347689984><:MASTER1:278725418679271425>[1] SuperMario#29200 <:NA:297912161064452096> (mmr:4807)\n<:ZERG:278762452265467907><:MASTER1:278725418679271425>[2] ArmyMan#54600 <:NA:297912161064452096> (mmr:4803)\n<:TERRAN:278762425552207883><:MASTER1:278725418679271425>[3] Prosper#16400 <:NA:297912161064452096> (mmr:4714)\n<:ZERG:278762452265467907><:MASTER1:278725418679271425>[2] Skyler#68800 <:NA:297912161064452096> (mmr:4707)\n<:PROTOSS:278762398347689984><:MASTER1:278725418679271425>[2] Skyler#68800 <:NA:297912161064452096> (mmr:4707)\n<:TERRAN:278762425552207883><:MASTER1:278725418679271425>[3] Wugi#28500 <:NA:297912161064452096> (mmr:4700)\n<:PROTOSS:278762398347689984><:MASTER1:278725418679271425>[2] Freak#84900 <:NA:297912161064452096> (mmr:4644)\n<:TERRAN:278762425552207883><:MASTER1:278725418679271425>[3] NoticeSenpai#15400 <:NA:297912161064452096> (mmr:4643)", "channel_id": "451188550889766912", "mentions": [], "type": 0}, {"attachments": [], "tts": false, "embeds": [], "timestamp": "2018-05-30T01:34:33.822000+00:00", "mention_everyone": false, "webhook_id": "451196346657931274", "id": "451196690406572048", "pinned": false, "edited_timestamp": null, "author": {"username": "TaeJa", "discriminator": "0000", "bot": true, "id": "451196346657931274", "avatar": "5d781a6da8b95c2be4e07ba5d8b925df"}, "mention_roles": [], "content": "Exports Complete: \nText: http://138.197.50.244/DUMPS/ConFed_A_DUMP.txt\nExcel: http://138.197.50.244/DUMPS/ConFed_DUMP.xls", "channel_id": "451188550889766912", "mentions": [], "type": 0}, {"attachments": [], "tts": false, "embeds": [], "timestamp": "2018-05-30T01:34:16.084000+00:00", "mention_everyone": false, "webhook_id": "451196346657931274", "id": "451196616008007691", "pinned": false, "edited_timestamp": null, "author": {"username": "TaeJa", "discriminator": "0000", "bot": true, "id": "451196346657931274", "avatar": "5d781a6da8b95c2be4e07ba5d8b925df"}, "mention_roles": [], "content": "Here are some race stats for the clan:\n<:TERRAN:278762425552207883> x 14  (28%)\n<:ZERG:278762452265467907> x 18  (36%)\n<:PROTOSS:278762398347689984> x 16  (32%)\n<:RANDOM:278762354001444864> x 2  (4%)\nTotal Ranked: 50", "channel_id": "451188550889766912", "mentions": [], "type": 0}]
+Set Channel ID
+Doing recusive (451196616008007691)
+[]
+No more messages: 451196616008007691
+[]
+static/Zw3bx9RQCF5zVH16.log.txt
+pins are static/mMCJGddBPiwFaC89.log.txt
+
+I want to post...
+
+THIS IS WHAT IM SENDING: 
+$VAR1 = '';
+
+451197948295118859 deleted.
+I want to post...
+
+THIS IS WHAT IM SENDING: 
+$VAR1 = '';
+
+451197026219327489 deleted.
+I want to post...
+
+THIS IS WHAT IM SENDING: 
+$VAR1 = '';
+
+451196690406572048 deleted.
+I want to post...
+
+THIS IS WHAT IM SENDING: 
+$VAR1 = '';
+
+451196616008007691 deleted.
+[{"attachments": [], "tts": false, "embeds": [], "timestamp": "2018-05-30T01:47:13.259000+00:00", "mention_everyone": false, "id": "451199875716218886", "pinned": false, "edited_timestamp": null, "author": {"username": "Shortland", "discriminator": "3839", "id": "131231443694125056", "avatar": "0d7c8c76af32e4f9fa6e36600d681d90"}, "mention_roles": [], "content": "~clear 451188550889766912", "channel_id": "451188550889766912", "mentions": [], "type": 0}, {"attachments": [], "tts": false, "embeds": [], "timestamp": "2018-05-30T01:47:09.595000+00:00", "mention_everyone": false, "id": "451199860348157962", "pinned": false, "edited_timestamp": null, "author": {"username": "Shortland", "discriminator": "3839", "id": "131231443694125056", "avatar": "0d7c8c76af32e4f9fa6e36600d681d90"}, "mention_roles": [], "content": "~clear", "channel_id": "451188550889766912", "mentions": [], "type": 0}, {"attachments": [], "tts": false, "embeds": [], "timestamp": "2018-05-30T01:46:55.321000+00:00", "mention_everyone": false, "webhook_id": "451196346657931274", "id": "451199800478662666", "pinned": false, "edited_timestamp": null, "author": {"username": "TaeJa", "discriminator": "0000", "bot": true, "id": "451196346657931274", "avatar": "5d781a6da8b95c2be4e07ba5d8b925df"}, "mention_roles": [], "content": "<:PLATINUM1:278725419056758784> [ConFed] derp#337 (mmr: 3206)\n<:PLATINUM1:278725419056758784> [ConFed] Terminus#836 (mmr: 3129)\n<:GOLD1:278725419073536012> [ConFed] Pinaxo#285 (mmr: 3122)\n<:GOLD1:278725419073536012> [ConFed] Minarius#237 (mmr: 2987)\n<:GOLD1:278725419073536012> [ConFed] MemeBooty#863 (mmr: 2957)\n<:SILVER2:278725418813751297> [ConFed] Nico#1660 (mmr: 2588)\n<:SILVER2:278725418813751297> [ConFed] Elssoo#917 (mmr: 2510)", "channel_id": "451188550889766912", "mentions": [], "type": 0}, {"attachments": [], "tts": false, "embeds": [], "timestamp": "2018-05-30T01:46:53.933000+00:00", "mention_everyone": false, "webhook_id": "451196346657931274", "id": "451199794656968714", "pinned": false, "edited_timestamp": null, "author": {"username": "TaeJa", "discriminator": "0000", "bot": true, "id": "451196346657931274", "avatar": "5d781a6da8b95c2be4e07ba5d8b925df"}, "mention_roles": [], "content": "<:DIAMOND1:278725418960551937> [ConFed] Kira#2547 (mmr: 3971)\n<:DIAMOND1:278725418960551937> [ConFed] Leslie#416 (mmr: 3956)\n<:DIAMOND1:278725418960551937> [ConFed] E\u00e4rnur#241 (mmr: 3954)\n<:DIAMOND1:278725418960551937> [ConFed] Vanarian#849 (mmr: 3942)\n<:DIAMOND1:278725418960551937> [ConFed] pheo#363 (mmr: 3901)\n<:DIAMOND1:278725418960551937> [ConFed] SnowNinja#190 (mmr: 3825)\n<:DIAMOND1:278725418960551937> [ConFed] DrDetroit#973 (mmr: 3803)\n<:DIAMOND1:278725418960551937> [ConFed] AndyRob#759 (mmr: 3800)\n<:DIAMOND1:278725418960551937> [ConFed] drgreenthumb#263 (mmr: 3780)\n<:DIAMOND1:278725418960551937> [ConFed] DarkSwarm#713 (mmr: 3761)\n<:DIAMOND1:278725418960551937> [ConFed] TheBigTG#765 (mmr: 3731)\n<:DIAMOND1:278725418960551937> [ConFed] Asamov#153 (mmr: 3713)\n<:DIAMOND1:278725418960551937> [ConFed] SwagHellaZ#175 (mmr: 3650)\n<:DIAMOND1:278725418960551937> [ConFed] Smiles#489 (mmr: 3625)\n<:DIAMOND1:278725418960551937> [ConFed] WarTankPrime#300 (mmr: 3610)\n<:DIAMOND1:278725418960551937> [ConFed] MsbowElite#522 (mmr: 3598)\n<:DIAMOND1:278725418960551937> [ConFed] RogueSaint#351 (mmr: 3596)\n<:PLATINUM1:278725419056758784> [ConFed] Waffles#373 (mmr: 3444)\n<:PLATINUM1:278725419056758784> [ConFed] SeventhSign#191 (mmr: 3291)\n<:PLATINUM1:278725419056758784> [ConFed] AgentAAA#770 (mmr: 3238)\n<:PLATINUM1:278725419056758784> [ConFed] Nanoha#122 (mmr: 3211)", "channel_id": "451188550889766912", "mentions": [], "type": 0}, {"attachments": [], "tts": false, "embeds": [], "timestamp": "2018-05-30T01:46:52.690000+00:00", "mention_everyone": false, "webhook_id": "451196346657931274", "id": "451199789443317764", "pinned": false, "edited_timestamp": null, "author": {"username": "TaeJa", "discriminator": "0000", "bot": true, "id": "451196346657931274", "avatar": "5d781a6da8b95c2be4e07ba5d8b925df"}, "mention_roles": [], "content": "<:MASTER1:278725418679271425> [ConFed] Gallant#277 (mmr: 5309)\n<:MASTER1:278725418679271425> [ConFed] CenturionMK#166 (mmr: 5306)\n<:MASTER1:278725418679271425> [ConFed] DWK#162 (mmr: 5197)\n<:MASTER1:278725418679271425> [ConFed] KILLY#299 (mmr: 5115)\n<:MASTER1:278725418679271425> [ConFed] Davis#223 (mmr: 4819)\n<:MASTER1:278725418679271425> [ConFed] Centurion#234 (mmr: 4778)\n<:MASTER1:278725418679271425> [ConFed] ShifuNess#331 (mmr: 4723)\n<:MASTER1:278725418679271425> [ConFed] Bushido#693 (mmr: 4581)\n<:MASTER1:278725418679271425> [ConFed] Commando#677 (mmr: 4578)\n<:MASTER1:278725418679271425> [ConFed] Fumblevore#620 (mmr: 4562)\n<:MASTER1:278725418679271425> [ConFed] Jasio#600 (mmr: 4505)\n<:DIAMOND1:278725418960551937> [ConFed] Broketail#174 (mmr: 4553)\n<:DIAMOND1:278725418960551937> [ConFed] Kira#1801 (mmr: 4497)\n<:DIAMOND1:278725418960551937> [ConFed] Moh#172 (mmr: 4442)\n<:DIAMOND1:278725418960551937> [ConFed] Knack#373 (mmr: 4369)\n<:DIAMOND1:278725418960551937> [ConFed] FishyFish#133 (mmr: 4353)\n<:DIAMOND1:278725418960551937> [ConFed] Corazon#238 (mmr: 4240)\n<:DIAMOND1:278725418960551937> [ConFed] Overkill#808 (mmr: 4121)\n<:DIAMOND1:278725418960551937> [ConFed] Markuverse#921 (mmr: 4043)\n<:DIAMOND1:278725418960551937> [ConFed] Remo#538 (mmr: 4033)\n<:DIAMOND1:278725418960551937> [ConFed] TheTravii#644 (mmr: 4025)\n<:DIAMOND1:278725418960551937> [ConFed] MrBrightside#372 (mmr: 4019)", "channel_id": "451188550889766912", "mentions": [], "type": 0}, {"attachments": [], "tts": false, "embeds": [], "timestamp": "2018-05-30T01:46:52.350000+00:00", "mention_everyone": false, "id": "451199788017516574", "pinned": false, "edited_timestamp": null, "author": {"username": "Sam", "discriminator": "4464", "id": "139420334896971776", "avatar": null}, "mention_roles": [], "content": "~roster", "channel_id": "451188550889766912", "mentions": [], "type": 0}, {"attachments": [], "tts": false, "embeds": [], "timestamp": "2018-05-30T01:46:50.497000+00:00", "mention_everyone": false, "id": "451199780245209089", "pinned": false, "edited_timestamp": null, "author": {"username": "Sam", "discriminator": "4464", "id": "139420334896971776", "avatar": null}, "mention_roles": [], "content": "how  do you do that", "channel_id": "451188550889766912", "mentions": [], "type": 0}, {"attachments": [], "tts": false, "embeds": [], "timestamp": "2018-05-30T01:46:47.500000+00:00", "mention_everyone": false, "id": "451199767674880004", "pinned": false, "edited_timestamp": null, "author": {"username": "TaeJa", "discriminator": "3766", "bot": true, "id": "314503849459056652", "avatar": "c38ca75c61f5f91fda5b86f258427b29"}, "mention_roles": [], "content": "pong", "channel_id": "451188550889766912", "mentions": [], "type": 0}, {"attachments": [], "tts": false, "embeds": [], "timestamp": "2018-05-30T01:46:46.552000+00:00", "mention_everyone": false, "id": "451199763698941962", "pinned": false, "edited_timestamp": "2018-05-30T01:46:46.805000+00:00", "author": {"username": "Dyno", "discriminator": "3861", "bot": true, "id": "155149108183695360", "avatar": "5aeb68c29b56b3d92eddb6f46df5051c"}, "mention_roles": [], "content": "Pong! `198ms`", "channel_id": "451188550889766912", "mentions": [], "type": 0}, {"attachments": [], "tts": false, "embeds": [], "timestamp": "2018-05-30T01:46:46.295000+00:00", "mention_everyone": false, "id": "451199762621005837", "pinned": false, "edited_timestamp": null, "author": {"username": "Shortland", "discriminator": "3839", "id": "131231443694125056", "avatar": "0d7c8c76af32e4f9fa6e36600d681d90"}, "mention_roles": [], "content": "~ping", "channel_id": "451188550889766912", "mentions": [], "type": 0}, {"attachments": [], "tts": false, "embeds": [], "timestamp": "2018-05-30T01:46:46.072000+00:00", "mention_everyone": false, "id": "451199761685413888", "pinned": false, "edited_timestamp": null, "author": {"username": "Sam", "discriminator": "4464", "id": "139420334896971776", "avatar": null}, "mention_roles": [], "content": "no", "channel_id": "451188550889766912", "mentions": [], "type": 0}, {"attachments": [], "tts": false, "embeds": [], "timestamp": "2018-05-30T01:46:32.138000+00:00", "mention_everyone": false, "id": "451199703242244106", "pinned": false, "edited_timestamp": null, "author": {"username": "Shortland", "discriminator": "3839", "id": "131231443694125056", "avatar": "0d7c8c76af32e4f9fa6e36600d681d90"}, "mention_roles": [], "content": "or", "channel_id": "451188550889766912", "mentions": [], "type": 0}, {"attachments": [], "tts": false, "embeds": [], "timestamp": "2018-05-30T01:46:30.089000+00:00", "mention_everyone": false, "id": "451199694648115210", "pinned": false, "edited_timestamp": null, "author": {"username": "Shortland", "discriminator": "3839", "id": "131231443694125056", "avatar": "0d7c8c76af32e4f9fa6e36600d681d90"}, "mention_roles": [], "content": "did u make it clear the channel", "channel_id": "451188550889766912", "mentions": [], "type": 0}, {"attachments": [], "tts": false, "embeds": [], "timestamp": "2018-05-30T01:44:50.867000+00:00", "mention_everyone": false, "id": "451199278480883725", "pinned": false, "edited_timestamp": null, "author": {"username": "Sam", "discriminator": "4464", "id": "139420334896971776", "avatar": null}, "mention_roles": [], "content": "", "channel_id": "451188550889766912", "mentions": [], "type": 6}, {"attachments": [], "tts": false, "embeds": [], "timestamp": "2018-05-30T01:44:32.646000+00:00", "mention_everyone": false, "id": "451199202056208384", "pinned": false, "edited_timestamp": null, "author": {"username": "Shortland", "discriminator": "3839", "id": "131231443694125056", "avatar": "0d7c8c76af32e4f9fa6e36600d681d90"}, "mention_roles": [], "content": "lol so long ago", "channel_id": "451188550889766912", "mentions": [], "type": 0}, {"attachments": [], "tts": false, "embeds": [], "timestamp": "2018-05-30T01:44:27.886000+00:00", "mention_everyone": false, "webhook_id": "451196346657931274", "id": "451199182091583514", "pinned": false, "edited_timestamp": null, "author": {"username": "TaeJa", "discriminator": "0000", "bot": true, "id": "451196346657931274", "avatar": "5d781a6da8b95c2be4e07ba5d8b925df"}, "mention_roles": [], "content": "<:ZERG:278762452265467907><:PLATINUM1:278725419056758784>[3] Terminus#83600 <:NA:297912161064452096> (mmr:3129)\n<:TERRAN:278762425552207883><:GOLD1:278725419073536012>[1] Pinaxo#28500 <:NA:297912161064452096> (mmr:3122)\n<:TERRAN:278762425552207883><:GOLD1:278725419073536012>[1] Nanoha#12200 <:NA:297912161064452096> (mmr:3117)\n<:RANDOM:278762354001444864><:GOLD1:278725419073536012>[1] Smiles#48900 <:NA:297912161064452096> (mmr:3093)\n<:ZERG:278762452265467907><:GOLD1:278725419073536012>[1] Pinaxo#28500 <:NA:297912161064452096> (mmr:3091)\n<:RANDOM:278762354001444864><:GOLD1:278725419073536012>[1] DarkSwarm#71300 <:NA:297912161064452096> (mmr:3011)\n<:RANDOM:278762354001444864><:PLATINUM1:278725419056758784>[3] Nanoha#12200 <:NA:297912161064452096> (mmr:3005)\n<:PROTOSS:278762398347689984><:GOLD1:278725419073536012>[2] Pinaxo#28500 <:NA:297912161064452096> (mmr:2994)\n<:PROTOSS:278762398347689984><:GOLD1:278725419073536012>[2] Minarius#23700 <:NA:297912161064452096> (mmr:2987)\n<:TERRAN:278762425552207883><:GOLD1:278725419073536012>[2] MemeBooty#86300 <:NA:297912161064452096> (mmr:2957)\n<:PROTOSS:278762398347689984><:GOLD1:278725419073536012>[2] Nanoha#12200 <:NA:297912161064452096> (mmr:2940)\n<:PROTOSS:278762398347689984><:SILVER2:278725418813751297>[2] Nico#166000 <:NA:297912161064452096> (mmr:2588)\n<:TERRAN:278762425552207883><:SILVER2:278725418813751297>[1] Elssoo#91700 <:NA:297912161064452096> (mmr:2510)\n<:ZERG:278762452265467907><:SILVER2:278725418813751297>[2] Elssoo#91700 <:NA:297912161064452096> (mmr:2358)", "channel_id": "451188550889766912", "mentions": [], "type": 0}, {"attachments": [], "tts": false, "embeds": [], "timestamp": "2018-05-30T01:44:27.479000+00:00", "mention_everyone": false, "webhook_id": "451196346657931274", "id": "451199180384501760", "pinned": false, "edited_timestamp": null, "author": {"username": "TaeJa", "discriminator": "0000", "bot": true, "id": "451196346657931274", "avatar": "5d781a6da8b95c2be4e07ba5d8b925df"}, "mention_roles": [], "content": "<:PROTOSS:278762398347689984><:PLATINUM1:278725419056758784>[1] DarkSwarm#71300 <:NA:297912161064452096> (mmr:3568)\n<:ZERG:278762452265467907><:PLATINUM1:278725419056758784>[1] Kira#254700 <:NA:297912161064452096> (mmr:3540)\n<:PROTOSS:278762398347689984><:DIAMOND1:278725418960551937>[3] Vanarian#84900 <:NA:297912161064452096> (mmr:3501)\n<:ZERG:278762452265467907><:PLATINUM1:278725419056758784>[1] Waffles#37300 <:NA:297912161064452096> (mmr:3444)\n<:RANDOM:278762354001444864><:PLATINUM1:278725419056758784>[2] TheTravii#64400 <:NA:297912161064452096> (mmr:3406)\n<:TERRAN:278762425552207883><:PLATINUM1:278725419056758784>[2] DarkSwarm#71300 <:NA:297912161064452096> (mmr:3357)\n<:PROTOSS:278762398347689984><:PLATINUM1:278725419056758784>[2] SwagHellaZ#17500 <:NA:297912161064452096> (mmr:3349)\n<:TERRAN:278762425552207883><:PLATINUM1:278725419056758784>[2] SeventhSign#19100 <:NA:297912161064452096> (mmr:3291)\n<:TERRAN:278762425552207883><:PLATINUM1:278725419056758784>[3] DrDetroit#97300 <:NA:297912161064452096> (mmr:3283)\n<:RANDOM:278762354001444864><:PLATINUM1:278725419056758784>[3] SwagHellaZ#17500 <:NA:297912161064452096> (mmr:3262)\n<:ZERG:278762452265467907><:PLATINUM1:278725419056758784>[3] SwagHellaZ#17500 <:NA:297912161064452096> (mmr:3252)\n<:ZERG:278762452265467907><:PLATINUM1:278725419056758784>[3] AgentAAA#77000 <:NA:297912161064452096> (mmr:3238)\n<:ZERG:278762452265467907><:PLATINUM1:278725419056758784>[3] Nanoha#12200 <:NA:297912161064452096> (mmr:3211)\n<:PROTOSS:278762398347689984><:PLATINUM1:278725419056758784>[3] derp#33700 <:NA:297912161064452096> (mmr:3206)\n<:TERRAN:278762425552207883><:PLATINUM1:278725419056758784>[3] AndyRob#75900 <:NA:297912161064452096> (mmr:3164)", "channel_id": "451188550889766912", "mentions": [], "type": 0}, {"attachments": [], "tts": false, "embeds": [], "timestamp": "2018-05-30T01:44:26.975000+00:00", "mention_everyone": false, "webhook_id": "451196346657931274", "id": "451199178270572565", "pinned": false, "edited_timestamp": null, "author": {"username": "TaeJa", "discriminator": "0000", "bot": true, "id": "451196346657931274", "avatar": "5d781a6da8b95c2be4e07ba5d8b925df"}, "mention_roles": [], "content": "<:RANDOM:278762354001444864><:DIAMOND1:278725418960551937>[3] MrBrightside#37200 <:NA:297912161064452096> (mmr:3844)\n<:ZERG:278762452265467907><:DIAMOND1:278725418960551937>[2] SnowNinja#19000 <:NA:297912161064452096> (mmr:3825)\n<:TERRAN:278762425552207883><:DIAMOND1:278725418960551937>[3] MrBrightside#37200 <:NA:297912161064452096> (mmr:3812)\n<:ZERG:278762452265467907><:DIAMOND1:278725418960551937>[3] DrDetroit#97300 <:NA:297912161064452096> (mmr:3803)\n<:ZERG:278762452265467907><:DIAMOND1:278725418960551937>[3] AndyRob#75900 <:NA:297912161064452096> (mmr:3800)\n<:PROTOSS:278762398347689984><:DIAMOND1:278725418960551937>[3] MrBrightside#37200 <:NA:297912161064452096> (mmr:3786)\n<:PROTOSS:278762398347689984><:DIAMOND1:278725418960551937>[3] drgreenthumb#26300 <:NA:297912161064452096> (mmr:3780)\n<:ZERG:278762452265467907><:DIAMOND1:278725418960551937>[3] DarkSwarm#71300 <:NA:297912161064452096> (mmr:3761)\n<:ZERG:278762452265467907><:DIAMOND1:278725418960551937>[3] TheBigTG#76500 <:NA:297912161064452096> (mmr:3731)\n<:ZERG:278762452265467907><:DIAMOND1:278725418960551937>[3] Asamov#15300 <:NA:297912161064452096> (mmr:3713)\n<:TERRAN:278762425552207883><:DIAMOND1:278725418960551937>[3] SwagHellaZ#17500 <:NA:297912161064452096> (mmr:3650)\n<:ZERG:278762452265467907><:DIAMOND1:278725418960551937>[3] Smiles#48900 <:NA:297912161064452096> (mmr:3625)\n<:TERRAN:278762425552207883><:DIAMOND1:278725418960551937>[3] WarTankPrime#30000 <:NA:297912161064452096> (mmr:3610)\n<:TERRAN:278762425552207883><:DIAMOND1:278725418960551937>[3] MsbowElite#52200 <:NA:297912161064452096> (mmr:3598)\n<:PROTOSS:278762398347689984><:DIAMOND1:278725418960551937>[3] RogueSaint#35100 <:NA:297912161064452096> (mmr:3596)", "channel_id": "451188550889766912", "mentions": [], "type": 0}, {"attachments": [], "tts": false, "embeds": [], "timestamp": "2018-05-30T01:44:26.695000+00:00", "mention_everyone": false, "webhook_id": "451196346657931274", "id": "451199177096167444", "pinned": false, "edited_timestamp": null, "author": {"username": "TaeJa", "discriminator": "0000", "bot": true, "id": "451196346657931274", "avatar": "5d781a6da8b95c2be4e07ba5d8b925df"}, "mention_roles": [], "content": "<:ZERG:278762452265467907><:DIAMOND1:278725418960551937>[1] Corazon#23800 <:NA:297912161064452096> (mmr:4240)\n<:PROTOSS:278762398347689984><:DIAMOND1:278725418960551937>[2] Knack#37300 <:NA:297912161064452096> (mmr:4135)\n<:ZERG:278762452265467907><:DIAMOND1:278725418960551937>[2] Overkill#80800 <:NA:297912161064452096> (mmr:4121)\n<:RANDOM:278762354001444864><:DIAMOND1:278725418960551937>[2] Corazon#23800 <:NA:297912161064452096> (mmr:4088)\n<:ZERG:278762452265467907><:DIAMOND1:278725418960551937>[2] Markuverse#92100 <:NA:297912161064452096> (mmr:4043)\n<:TERRAN:278762425552207883><:DIAMOND1:278725418960551937>[2] Remo#53800 <:NA:297912161064452096> (mmr:4033)\n<:PROTOSS:278762398347689984><:DIAMOND1:278725418960551937>[2] TheTravii#64400 <:NA:297912161064452096> (mmr:4025)\n<:ZERG:278762452265467907><:DIAMOND1:278725418960551937>[2] MrBrightside#37200 <:NA:297912161064452096> (mmr:4019)\n<:TERRAN:278762425552207883><:DIAMOND1:278725418960551937>[2] Markuverse#92100 <:NA:297912161064452096> (mmr:3982)\n<:RANDOM:278762354001444864><:DIAMOND1:278725418960551937>[3] Kira#254700 <:NA:297912161064452096> (mmr:3971)\n<:PROTOSS:278762398347689984><:DIAMOND1:278725418960551937>[2] Leslie#41600 <:NA:297912161064452096> (mmr:3956)\n<:PROTOSS:278762398347689984><:DIAMOND1:278725418960551937>[2] E\u00e4rnur#24100 <:NA:297912161064452096> (mmr:3954)\n<:ZERG:278762452265467907><:DIAMOND1:278725418960551937>[2] Vanarian#84900 <:NA:297912161064452096> (mmr:3942)\n<:TERRAN:278762425552207883><:DIAMOND1:278725418960551937>[3] Kira#254700 <:NA:297912161064452096> (mmr:3936)\n<:RANDOM:278762354001444864><:DIAMOND1:278725418960551937>[3] pheo#36300 <:NA:297912161064452096> (mmr:3901)", "channel_id": "451188550889766912", "mentions": [], "type": 0}, {"attachments": [], "tts": false, "embeds": [], "timestamp": "2018-05-30T01:44:26.065000+00:00", "mention_everyone": false, "id": "451199174453493790", "pinned": false, "edited_timestamp": null, "author": {"username": "Sam", "discriminator": "4464", "id": "139420334896971776", "avatar": null}, "mention_roles": [], "content": "~clan confed", "channel_id": "451188550889766912", "mentions": [], "type": 0}, {"attachments": [], "tts": false, "embeds": [], "timestamp": "2018-05-30T01:44:07.889000+00:00", "mention_everyone": false, "id": "451199098218086410", "pinned": false, "edited_timestamp": null, "author": {"username": "Sam", "discriminator": "4464", "id": "139420334896971776", "avatar": null}, "mention_roles": [], "content": "\ud83d\ude2e", "channel_id": "451188550889766912", "mentions": [], "type": 0}, {"attachments": [], "tts": false, "embeds": [], "timestamp": "2018-05-30T01:44:03.046000+00:00", "mention_everyone": false, "id": "451199077905072149", "pinned": false, "edited_timestamp": null, "author": {"username": "Shortland", "discriminator": "3839", "id": "131231443694125056", "avatar": "0d7c8c76af32e4f9fa6e36600d681d90"}, "mention_roles": [], "content": "<@!139420334896971776> works", "channel_id": "451188550889766912", "mentions": [{"username": "Sam", "discriminator": "4464", "id": "139420334896971776", "avatar": null}], "type": 0}, {"attachments": [], "tts": false, "embeds": [], "timestamp": "2018-05-30T01:42:29.616000+00:00", "mention_everyone": false, "id": "451198686031118347", "pinned": false, "edited_timestamp": null, "author": {"username": "Shortland", "discriminator": "3839", "id": "131231443694125056", "avatar": "0d7c8c76af32e4f9fa6e36600d681d90"}, "mention_roles": [], "content": "139420334896971776\n131231443694125056\n108805934297387008", "channel_id": "451188550889766912", "mentions": [], "type": 0}, {"attachments": [], "tts": false, "embeds": [], "timestamp": "2018-05-30T01:41:21.161000+00:00", "mention_everyone": false, "id": "451198398910038027", "pinned": true, "edited_timestamp": null, "author": {"username": "TaeJa", "discriminator": "3766", "bot": true, "id": "314503849459056652", "avatar": "c38ca75c61f5f91fda5b86f258427b29"}, "mention_roles": [], "content": "Full Commands:\n\n~roster\n~roster count (league,race)\n~roster (terran,zerg,protoss,random)\n~roster (grandmaster,master,diamond...)\n~roster export confed\n\n~player Shortland\n~player Shortland (terran, protoss zerg, random)\n~player Shortland (na,kr,eu)\n~player Shortland#95200\n~player Shortland#95200 (terran, protoss zerg, random)\n\n~bnet Shortland#1803\n\n~clan confed\n\n~bounds\n~bounds (na,eu,kr)\n\n~ctl\n\n~ping\n\n~shrug\n\n\n=====\nAdmin\n=====\n\n~clear Channel_ID_Here", "channel_id": "451188550889766912", "mentions": [], "type": 0}, {"attachments": [], "tts": false, "embeds": [], "timestamp": "2018-05-30T01:41:19.854000+00:00", "mention_everyone": false, "id": "451198393428082709", "pinned": false, "edited_timestamp": null, "author": {"username": "Shortland", "discriminator": "3839", "id": "131231443694125056", "avatar": "0d7c8c76af32e4f9fa6e36600d681d90"}, "mention_roles": [], "content": "~help", "channel_id": "451188550889766912", "mentions": [], "type": 0}]
+Set Channel ID
+Doing recusive (451198393428082709)
+[]
+No more messages: 451198393428082709
+[{"attachments": [], "tts": false, "embeds": [], "timestamp": "2018-05-30T01:41:21.161000+00:00", "mention_everyone": false, "id": "451198398910038027", "pinned": true, "edited_timestamp": null, "author": {"username": "TaeJa", "discriminator": "3766", "bot": true, "id": "314503849459056652", "avatar": "c38ca75c61f5f91fda5b86f258427b29"}, "mention_roles": [], "content": "Full Commands:\n\n~roster\n~roster count (league,race)\n~roster (terran,zerg,protoss,random)\n~roster (grandmaster,master,diamond...)\n~roster export confed\n\n~player Shortland\n~player Shortland (terran, protoss zerg, random)\n~player Shortland (na,kr,eu)\n~player Shortland#95200\n~player Shortland#95200 (terran, protoss zerg, random)\n\n~bnet Shortland#1803\n\n~clan confed\n\n~bounds\n~bounds (na,eu,kr)\n\n~ctl\n\n~ping\n\n~shrug\n\n\n=====\nAdmin\n=====\n\n~clear Channel_ID_Here", "channel_id": "451188550889766912", "mentions": [], "type": 0}]
+static/iISyuV8FhrxEK6i3.log.txt
+pins are static/4cqjkHjtYiye3WWL.log.txt
+451198398910038027
+I want to post...
+
+THIS IS WHAT IM SENDING: 
+$VAR1 = '';
+
+451199875716218886 deleted.
+I want to post...
+
+THIS IS WHAT IM SENDING: 
+$VAR1 = '';
+
+451199860348157962 deleted.
+I want to post...
+
+THIS IS WHAT IM SENDING: 
+$VAR1 = '';
+
+451199800478662666 deleted.
+I want to post...
+
+THIS IS WHAT IM SENDING: 
+$VAR1 = '';
+
+451199794656968714 deleted.
+I want to post...
+
+THIS IS WHAT IM SENDING: 
+$VAR1 = '';
+
+451199789443317764 deleted.
+I want to post...
+
+THIS IS WHAT IM SENDING: 
+$VAR1 = '{
+  "global": false, 
+  "message": "You are being rate limited.", 
+  "retry_after": 257
+}
+';
+
+451199788017516574 deleted.
+I want to post...
+
+THIS IS WHAT IM SENDING: 
+$VAR1 = '{
+  "global": false, 
+  "message": "You are being rate limited.", 
+  "retry_after": 21
+}
+';
+
+451199780245209089 deleted.
+I want to post...
+
+THIS IS WHAT IM SENDING: 
+$VAR1 = '';
+
+451199767674880004 deleted.
+I want to post...
+
+THIS IS WHAT IM SENDING: 
+$VAR1 = '';
+
+451199763698941962 deleted.
+I want to post...
+
+THIS IS WHAT IM SENDING: 
+$VAR1 = '';
+
+451199762621005837 deleted.
+I want to post...
+
+THIS IS WHAT IM SENDING: 
+$VAR1 = '';
+
+451199761685413888 deleted.
+I want to post...
+
+THIS IS WHAT IM SENDING: 
+$VAR1 = '';
+
+451199703242244106 deleted.
+I want to post...
+
+THIS IS WHAT IM SENDING: 
+$VAR1 = '';
+
+451199694648115210 deleted.
+I want to post...
+
+THIS IS WHAT IM SENDING: 
+$VAR1 = '{
+  "global": false, 
+  "message": "You are being rate limited.", 
+  "retry_after": 371
+}
+';
+
+451199278480883725 deleted.
+I want to post...
+
+THIS IS WHAT IM SENDING: 
+$VAR1 = '{
+  "global": false, 
+  "message": "You are being rate limited.", 
+  "retry_after": 148
+}
+';
+
+451199202056208384 deleted.
+I want to post...
+
+THIS IS WHAT IM SENDING: 
+$VAR1 = '';
+
+451199182091583514 deleted.
+I want to post...
+
+THIS IS WHAT IM SENDING: 
+$VAR1 = '';
+
+451199180384501760 deleted.
+I want to post...
+
+THIS IS WHAT IM SENDING: 
+$VAR1 = '';
+
+451199178270572565 deleted.
+I want to post...
+
+THIS IS WHAT IM SENDING: 
+$VAR1 = '{
+  "global": false, 
+  "message": "You are being rate limited.", 
+  "retry_after": 282
+}
+';
+
+451199177096167444 deleted.
+I want to post...
+
+THIS IS WHAT IM SENDING: 
+$VAR1 = '{
+  "global": false, 
+  "message": "You are being rate limited.", 
+  "retry_after": 47
+}
+';
+
+451199174453493790 deleted.
+I want to post...
+
+THIS IS WHAT IM SENDING: 
+$VAR1 = '';
+
+451199098218086410 deleted.
+I want to post...
+
+THIS IS WHAT IM SENDING: 
+$VAR1 = '';
+
+451199077905072149 deleted.
+I want to post...
+
+THIS IS WHAT IM SENDING: 
+$VAR1 = '';
+
+451198686031118347 deleted.
+Not deleting 451198398910038027 cause it's a pinned message
+I want to post...
+
+THIS IS WHAT IM SENDING: 
+$VAR1 = '{
+  "global": false, 
+  "message": "You are being rate limited.", 
+  "retry_after": 127
+}
+';
+
+451198393428082709 deleted.
